@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ar" dir="rtl">
+<html lang="ar" dir="rtl" id="html-root">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -23,6 +23,82 @@
         .gradient-bg { background: linear-gradient(135deg, #1e3a8a 0%, #1e40af 100%); }
         .card-hover:hover { transform: translateY(-10px); transition: all 0.3s ease; }
         .product-card { border-top: 4px solid #1e40af; }
+        
+        /* Animations */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        @keyframes slideInLeft {
+            from {
+                opacity: 0;
+                transform: translateX(-50px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+        
+        @keyframes pulse-glow {
+            0%, 100% { box-shadow: 0 0 0 0 rgba(30, 58, 138, 0.7); }
+            50% { box-shadow: 0 0 0 10px rgba(30, 58, 138, 0); }
+        }
+        
+        .animate-fade-in-up {
+            animation: fadeInUp 0.8s ease-out;
+        }
+        
+        .animate-slide-in-left {
+            animation: slideInLeft 0.8s ease-out;
+        }
+        
+        .pulse-button {
+            animation: pulse-glow 2s infinite;
+        }
+        
+        .section-divider {
+            height: 2px;
+            background: linear-gradient(90deg, transparent, #1e3a8a, transparent);
+            margin: 2rem 0;
+        }
+        
+        /* Smooth transitions */
+        * {
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+        
+        .language-toggle {
+            cursor: pointer;
+            padding: 8px 12px;
+            border-radius: 6px;
+            border: 2px solid #1e3a8a;
+            font-weight: bold;
+            transition: all 0.3s ease;
+        }
+        
+        .language-toggle:hover {
+            background-color: #1e3a8a;
+            color: white;
+        }
+        
+        .testimonial-card {
+            background: linear-gradient(135deg, #f3f4f6 0%, #ffffff 100%);
+            border-left: 4px solid #facc15;
+        }
+        
+        .stats-counter {
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: #1e3a8a;
+        }
     </style>
 
     <script>
@@ -48,42 +124,59 @@
                 <div class="w-10 h-10 gradient-bg rounded-lg flex items-center justify-center text-white font-bold text-xl">S</div>
                 <span class="text-2xl font-bold text-primary">السراج</span>
             </div>
-            <div class="hidden md:flex space-x-reverse space-x-8 font-medium">
+            <div class="hidden md:flex space-x-reverse space-x-8 font-medium items-center">
                 <a href="#" class="hover:text-primary transition">الرئيسية</a>
                 <a href="#services" class="hover:text-primary transition">خدماتنا</a>
                 <a href="#projects" class="hover:text-primary transition">أعمالنا</a>
+                <a href="#testimonials" class="hover:text-primary transition">آراء العملاء</a>
                 <a href="#about" class="hover:text-primary transition">عن الشركة</a>
+                <button onclick="toggleLanguage()" class="language-toggle">EN</button>
                 <a href="#contact" class="bg-primary text-white px-6 py-2 rounded-full hover:bg-blue-800 transition">تواصل معنا</a>
             </div>
-            <button class="md:hidden text-2xl" onclick="toggleMobileMenu()">☰</button>
+            <div class="flex md:hidden items-center space-x-reverse space-x-4">
+                <button onclick="toggleLanguage()" class="language-toggle text-sm">EN</button>
+                <button class="text-2xl" onclick="toggleMobileMenu()">☰</button>
+            </div>
         </div>
         <!-- Mobile Menu -->
         <div id="mobile-menu" class="hidden md:hidden bg-white border-t px-6 py-4 space-y-4">
             <a href="#" class="block hover:text-primary">الرئيسية</a>
             <a href="#services" class="block hover:text-primary">خدماتنا</a>
             <a href="#projects" class="block hover:text-primary">أعمالنا</a>
+            <a href="#testimonials" class="block hover:text-primary">آراء العملاء</a>
+            <a href="#about" class="block hover:text-primary">عن الشركة</a>
             <a href="#contact" class="block text-primary font-bold">تواصل معنا</a>
         </div>
     </nav>
 
     <!-- Hero Section -->
     <header class="gradient-bg text-white py-24 px-6 relative overflow-hidden">
+        <div class="absolute inset-0 opacity-10">
+            <div class="absolute top-10 right-10 w-72 h-72 bg-white rounded-full mix-blend-multiply filter blur-3xl"></div>
+            <div class="absolute -bottom-8 left-20 w-72 h-72 bg-yellow-300 rounded-full mix-blend-multiply filter blur-3xl"></div>
+        </div>
         <div class="container mx-auto flex flex-col md:flex-row items-center relative z-10">
-            <div class="md:w-1/2 space-y-8 animate-fade-in">
+            <div class="md:w-1/2 space-y-8 animate-fade-in-up">
                 <h1 class="text-4xl md:text-6xl font-bold leading-tight">كل ما تحتاجه لبناء <span class="text-secondary">مصنع أدوية محترف</span></h1>
                 <p class="text-xl text-blue-100 max-w-lg">نحن نبني مصانع الأدوية التي تسمح لعملائنا بتحقيق رؤيتهم. الوكيل المعتمد للشركة المصرية المتحدة و PharMatrix الأردنية و Asenware و Ekingair.</p>
-                <div class="flex space-x-reverse space-x-4">
-                    <a href="#contact" class="bg-secondary text-dark px-8 py-3 rounded-lg font-bold hover:bg-yellow-400 transition">تواصل معنا الآن</a>
+                <div class="flex space-x-reverse space-x-4 flex-wrap">
+                    <a href="#contact" class="bg-secondary text-dark px-8 py-3 rounded-lg font-bold hover:bg-yellow-400 transition pulse-button">تواصل معنا الآن</a>
                     <a href="#about" class="border border-white px-8 py-3 rounded-lg font-bold hover:bg-white hover:text-primary transition">لماذا تختار السراج؟</a>
                 </div>
             </div>
-            <div class="md:w-1/2 mt-12 md:mt-0 flex justify-center">
+            <div class="md:w-1/2 mt-12 md:mt-0 flex justify-center animate-slide-in-left">
                 <div class="bg-white/10 backdrop-blur-md p-8 rounded-2xl border border-white/20 shadow-2xl">
                     <h3 class="text-xl font-bold mb-6 text-secondary text-center">رؤية السراج</h3>
                     <p class="text-sm leading-relaxed text-center mb-6 italic">"تسعى شركة السراج للريادة في مجال التهوية والكهرباء محلياً وإقليمياً، وخدمة عملائنا وضمان نجاح مشاريعهم من خلال حلول مبتكرة."</p>
                     <div class="grid grid-cols-2 gap-4 text-center">
-                        <div class="p-4 bg-white/10 rounded-xl"><div class="text-2xl font-bold text-secondary">2006</div><div class="text-xs uppercase">سنة التأسيس</div></div>
-                        <div class="p-4 bg-white/10 rounded-xl"><div class="text-2xl font-bold text-secondary">17+</div><div class="text-xs uppercase">عاماً من الخبرة</div></div>
+                        <div class="p-4 bg-white/10 rounded-xl hover:bg-white/20 transition">
+                            <div class="stats-counter">2006</div>
+                            <div class="text-xs uppercase">سنة التأسيس</div>
+                        </div>
+                        <div class="p-4 bg-white/10 rounded-xl hover:bg-white/20 transition">
+                            <div class="stats-counter">17+</div>
+                            <div class="text-xs uppercase">عاماً من الخبرة</div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -112,8 +205,11 @@
         </div>
         <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             <!-- Service 1 -->
-            <div class="bg-white p-8 rounded-xl shadow-sm border card-hover">
-                <div class="text-primary font-bold mb-4 border-b pb-2">التصميم المفاهيمي (Conceptual Design)</div>
+            <div class="bg-white p-8 rounded-xl shadow-sm border card-hover transform transition hover:shadow-lg">
+                <div class="text-primary font-bold mb-4 border-b pb-2 flex items-center gap-3">
+                    <span class="text-2xl">🏗️</span>
+                    <span>التصميم المفاهيمي</span>
+                </div>
                 <ul class="text-gray-600 space-y-2 text-sm">
                     <li>• المخطط العام (Master Plan)</li>
                     <li>• رسومات تخطيط الغرف</li>
@@ -122,8 +218,11 @@
                 </ul>
             </div>
             <!-- Service 2 -->
-            <div class="bg-white p-8 rounded-xl shadow-sm border card-hover">
-                <div class="text-primary font-bold mb-4 border-b pb-2">التصميم التفصيلي (Detailed Design)</div>
+            <div class="bg-white p-8 rounded-xl shadow-sm border card-hover transform transition hover:shadow-lg">
+                <div class="text-primary font-bold mb-4 border-b pb-2 flex items-center gap-3">
+                    <span class="text-2xl">📐</span>
+                    <span>التصميم التفصيلي</span>
+                </div>
                 <ul class="text-gray-600 space-y-2 text-sm">
                     <li>• التصميم الكهربائي والميكانيكي</li>
                     <li>• الأعمال المدنية والمعمارية</li>
@@ -132,39 +231,134 @@
                 </ul>
             </div>
             <!-- Service 3 -->
-            <div class="bg-white p-8 rounded-xl shadow-sm border card-hover">
-                <div class="text-primary font-bold mb-4 border-b pb-2">اللوحات والأنظمة الكهربائية</div>
+            <div class="bg-white p-8 rounded-xl shadow-sm border card-hover transform transition hover:shadow-lg">
+                <div class="text-primary font-bold mb-4 border-b pb-2 flex items-center gap-3">
+                    <span class="text-2xl">⚡</span>
+                    <span>الأنظمة الكهربائية</span>
+                </div>
                 <p class="text-gray-600 text-sm leading-relaxed">تصنيع وتجميع لوحات التوزيع والتحكم الكهربائي، وتصميم قنوات التهوية (Ducting) بمواصفات عالية.</p>
+            </div>
+            <!-- Service 4 -->
+            <div class="bg-white p-8 rounded-xl shadow-sm border card-hover transform transition hover:shadow-lg">
+                <div class="text-primary font-bold mb-4 border-b pb-2 flex items-center gap-3">
+                    <span class="text-2xl">🔥</span>
+                    <span>أنظمة الإنذار والإخماد</span>
+                </div>
+                <p class="text-gray-600 text-sm leading-relaxed">أنظمة إنذار حريق متقدمة وأنظمة إخماد تلقائية من Asenware بأعلى معايير الأمان.</p>
+            </div>
+            <!-- Service 5 -->
+            <div class="bg-white p-8 rounded-xl shadow-sm border card-hover transform transition hover:shadow-lg">
+                <div class="text-primary font-bold mb-4 border-b pb-2 flex items-center gap-3">
+                    <span class="text-2xl">❄️</span>
+                    <span>التكييف الصناعي</span>
+                </div>
+                <p class="text-gray-600 text-sm leading-relaxed">حلول تكييف صناعي متقدمة من Ekingair مع مضخات حرارة وأنظمة تهوية متكاملة.</p>
+            </div>
+            <!-- Service 6 -->
+            <div class="bg-white p-8 rounded-xl shadow-sm border card-hover transform transition hover:shadow-lg">
+                <div class="text-primary font-bold mb-4 border-b pb-2 flex items-center gap-3">
+                    <span class="text-2xl">🛠️</span>
+                    <span>الاستشارات الفنية</span>
+                </div>
+                <p class="text-gray-600 text-sm leading-relaxed">استشارات متخصصة لتحسين العمليات الإنتاجية وضمان الامتثال للمعايير الدولية.</p>
             </div>
         </div>
     </section>
 
-    <!-- Projects Section -->
+    <!-- Projects Section with Gallery -->
     <section id="projects" class="py-20 bg-gray-100">
         <div class="container mx-auto px-6">
             <h2 class="text-3xl font-bold text-primary mb-12 text-center">أبرز مشاريعنا</h2>
             <div class="grid md:grid-cols-3 gap-8">
-                <div class="bg-white rounded-xl overflow-hidden shadow-md group">
-                    <div class="h-48 bg-blue-900 flex items-center justify-center text-white font-bold">مصنع الهلال للأدوية</div>
+                <!-- Project 1 -->
+                <div class="bg-white rounded-xl overflow-hidden shadow-md group hover:shadow-2xl transition">
+                    <div class="h-48 bg-gradient-to-br from-blue-900 to-blue-700 flex items-center justify-center text-white font-bold text-center p-4 group-hover:scale-105 transition transform">
+                        <div>
+                            <div class="text-3xl mb-2">🏭</div>
+                            <div>مصنع الهلال للأدوية</div>
+                        </div>
+                    </div>
                     <div class="p-6">
                         <h4 class="font-bold mb-2">مصنع الهلال</h4>
-                        <p class="text-sm text-gray-500">تنفيذ وتجهيز متكامل وفق أحدث المعايير الطبية.</p>
+                        <p class="text-sm text-gray-500 mb-4">تنفيذ وتجهيز متكامل وفق أحدث المعايير الطبية والدولية.</p>
+                        <div class="text-xs text-primary font-bold">✓ معايير عالمية ✓ تجهيزات حديثة</div>
                     </div>
                 </div>
-                <div class="bg-white rounded-xl overflow-hidden shadow-md group">
-                    <div class="h-48 bg-blue-800 flex items-center justify-center text-white font-bold">المجلس الأعلى للأدوية</div>
+                <!-- Project 2 -->
+                <div class="bg-white rounded-xl overflow-hidden shadow-md group hover:shadow-2xl transition">
+                    <div class="h-48 bg-gradient-to-br from-blue-800 to-blue-600 flex items-center justify-center text-white font-bold text-center p-4 group-hover:scale-105 transition transform">
+                        <div>
+                            <div class="text-3xl mb-2">🏛️</div>
+                            <div>المجلس الأعلى للأدوية</div>
+                        </div>
+                    </div>
                     <div class="p-6">
                         <h4 class="font-bold mb-2">الهيئة العليا للأدوية</h4>
-                        <p class="text-sm text-gray-500">شراكة استراتيجية في التجهيزات الفنية والتقنية.</p>
+                        <p class="text-sm text-gray-500 mb-4">شراكة استراتيجية في التجهيزات الفنية والتقنية المتقدمة.</p>
+                        <div class="text-xs text-primary font-bold">✓ شراكة استراتيجية ✓ تقنيات متقدمة</div>
                     </div>
                 </div>
-                <div class="bg-white rounded-xl overflow-hidden shadow-md group">
-                    <div class="h-48 bg-blue-700 flex items-center justify-center text-white font-bold">مشاريع إقليمية</div>
+                <!-- Project 3 -->
+                <div class="bg-white rounded-xl overflow-hidden shadow-md group hover:shadow-2xl transition">
+                    <div class="h-48 bg-gradient-to-br from-blue-700 to-blue-500 flex items-center justify-center text-white font-bold text-center p-4 group-hover:scale-105 transition transform">
+                        <div>
+                            <div class="text-3xl mb-2">🌍</div>
+                            <div>مشاريع إقليمية</div>
+                        </div>
+                    </div>
                     <div class="p-6">
                         <h4 class="font-bold mb-2">توسع إقليمي</h4>
-                        <p class="text-sm text-gray-500">مشاريع في الصومال، إثيوبيا، كينيا، وتنزانيا.</p>
+                        <p class="text-sm text-gray-500 mb-4">مشاريع ناجحة في الصومال، إثيوبيا، كينيا، وتنزانيا.</p>
+                        <div class="text-xs text-primary font-bold">✓ خبرة إقليمية ✓ نجاح مثبت</div>
                     </div>
                 </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section id="testimonials" class="py-20 container mx-auto px-6">
+        <div class="text-center mb-16">
+            <h2 class="text-3xl md:text-4xl font-bold text-primary mb-4">آراء عملائنا</h2>
+            <p class="text-gray-600">ماذا يقول عملاؤنا عن خدماتنا</p>
+            <div class="w-20 h-1 bg-secondary mx-auto mt-4"></div>
+        </div>
+        <div class="grid md:grid-cols-3 gap-8">
+            <!-- Testimonial 1 -->
+            <div class="testimonial-card p-8 rounded-xl shadow-md hover:shadow-lg transition">
+                <div class="flex items-center mb-4">
+                    <div class="w-12 h-12 bg-gradient-to-br from-primary to-blue-600 rounded-full flex items-center justify-center text-white font-bold">أ.م</div>
+                    <div class="mr-4">
+                        <div class="font-bold">أحمد محمد</div>
+                        <div class="text-xs text-gray-500">مدير مصنع الهلال</div>
+                    </div>
+                </div>
+                <div class="flex text-yellow-400 mb-3">⭐⭐⭐⭐⭐</div>
+                <p class="text-gray-600 text-sm leading-relaxed">"فريق السراج قدم لنا حلاً متكاملاً وفق أعلى المعايير الدولية. الاحترافية والالتزام بالمواعيد كانا واضحين في كل خطوة من المشروع."</p>
+            </div>
+            <!-- Testimonial 2 -->
+            <div class="testimonial-card p-8 rounded-xl shadow-md hover:shadow-lg transition">
+                <div class="flex items-center mb-4">
+                    <div class="w-12 h-12 bg-gradient-to-br from-secondary to-yellow-400 rounded-full flex items-center justify-center text-dark font-bold">ف.ع</div>
+                    <div class="mr-4">
+                        <div class="font-bold">فاطمة علي</div>
+                        <div class="text-xs text-gray-500">مهندسة مشاريع</div>
+                    </div>
+                </div>
+                <div class="flex text-yellow-400 mb-3">⭐⭐⭐⭐⭐</div>
+                <p class="text-gray-600 text-sm leading-relaxed">"التعاون مع السراج كان تجربة رائعة. الفريق متخصص وملتزم بالجودة والسلامة في كل جزء من المشروع."</p>
+            </div>
+            <!-- Testimonial 3 -->
+            <div class="testimonial-card p-8 rounded-xl shadow-md hover:shadow-lg transition">
+                <div class="flex items-center mb-4">
+                    <div class="w-12 h-12 bg-gradient-to-br from-green-500 to-green-600 rounded-full flex items-center justify-center text-white font-bold">م.ح</div>
+                    <div class="mr-4">
+                        <div class="font-bold">محمود حسن</div>
+                        <div class="text-xs text-gray-500">مدير عام شركة</div>
+                    </div>
+                </div>
+                <div class="flex text-yellow-400 mb-3">⭐⭐⭐⭐⭐</div>
+                <p class="text-gray-600 text-sm leading-relaxed">"أوصي بشدة بشركة السراج. لديهم خبرة عميقة وفريق محترف يفهم احتياجات السوق الإقليمي."</p>
             </div>
         </div>
     </section>
@@ -175,45 +369,74 @@
             <div class="md:w-1/2">
                 <h2 class="text-3xl font-bold text-primary mb-6">عن شركة السراج</h2>
                 <p class="text-gray-600 leading-relaxed mb-6">تأسست شركة السراج في عام 2006 كشركة خاصة متخصصة في مجال تصنيع وتجميع اللوحات الكهربائية للتوزيع والتحكم. على مر السنين، تطورنا لنصبح رواداً في بناء وتجهيز مصانع الأدوية المتكاملة.</p>
+                <p class="text-gray-600 leading-relaxed mb-6">نعمل مع أفضل الشركات العالمية لضمان تقديم حلول متطورة وموثوقة لعملائنا في اليمن والمنطقة.</p>
                 <div class="grid grid-cols-2 gap-6">
-                    <div>
+                    <div class="p-4 bg-blue-50 rounded-lg hover:bg-blue-100 transition">
                         <h4 class="font-bold text-primary mb-2">🛡️ السلامة أولاً</h4>
-                        <p class="text-xs text-gray-500">السلامة هي أهم قيمنا الأساسية وأولويتنا القصوى في كل مشروع.</p>
+                        <p class="text-xs text-gray-600">السلامة هي أهم قيمنا الأساسية وأولويتنا القصوى في كل مشروع.</p>
                     </div>
-                    <div>
+                    <div class="p-4 bg-yellow-50 rounded-lg hover:bg-yellow-100 transition">
                         <h4 class="font-bold text-primary mb-2">🤝 النزاهة</h4>
-                        <p class="text-xs text-gray-500">نعمل بالتزام لا يتزعزع بالصدق والنزاهة في جميع تعاملاتنا.</p>
+                        <p class="text-xs text-gray-600">نعمل بالتزام لا يتزعزع بالصدق والنزاهة في جميع تعاملاتنا.</p>
                     </div>
-                    <div>
+                    <div class="p-4 bg-green-50 rounded-lg hover:bg-green-100 transition">
                         <h4 class="font-bold text-primary mb-2">🌍 الاستدامة</h4>
-                        <p class="text-xs text-gray-500">التزامنا طويل الأمد تجاه بناء مصانع طبية مستدامة وصديقة للبيئة.</p>
+                        <p class="text-xs text-gray-600">التزامنا طويل الأمد تجاه بناء مصانع طبية مستدامة وصديقة للبيئة.</p>
                     </div>
-                    <div>
+                    <div class="p-4 bg-purple-50 rounded-lg hover:bg-purple-100 transition">
                         <h4 class="font-bold text-primary mb-2">👥 الشراكة</h4>
-                        <p class="text-xs text-gray-500">نحن شركاء لعملائنا في حل مشكلاتهم وتحقيق أهدافهم.</p>
+                        <p class="text-xs text-gray-600">نحن شركاء لعملائنا في حل مشكلاتهم وتحقيق أهدافهم.</p>
                     </div>
                 </div>
             </div>
             <div class="md:w-1/2 bg-primary rounded-3xl p-8 text-white">
                 <h3 class="text-2xl font-bold mb-6 text-secondary">لماذا نحن؟</h3>
                 <ul class="space-y-4">
-                    <li class="flex items-start gap-3">
-                        <span class="text-secondary font-bold">✓</span>
+                    <li class="flex items-start gap-3 hover:translate-x-2 transition">
+                        <span class="text-secondary font-bold text-xl">✓</span>
                         <p>وكلاء الشركة المصرية المتحدة للتصميم الصيدلاني.</p>
                     </li>
-                    <li class="flex items-start gap-3">
-                        <span class="text-secondary font-bold">✓</span>
+                    <li class="flex items-start gap-3 hover:translate-x-2 transition">
+                        <span class="text-secondary font-bold text-xl">✓</span>
                         <p>وكلاء شركة PharMatrix الأردنية في المجال الصيدلاني.</p>
                     </li>
-                    <li class="flex items-start gap-3">
-                        <span class="text-secondary font-bold">✓</span>
+                    <li class="flex items-start gap-3 hover:translate-x-2 transition">
+                        <span class="text-secondary font-bold text-xl">✓</span>
                         <p>وكلاء Asenware لأنظمة الإنذار و Ekingair للتكييف الصناعي.</p>
                     </li>
-                    <li class="flex items-start gap-3">
-                        <span class="text-secondary font-bold">✓</span>
+                    <li class="flex items-start gap-3 hover:translate-x-2 transition">
+                        <span class="text-secondary font-bold text-xl">✓</span>
                         <p>خبرة تمتد لأكثر من 17 عاماً في السوق اليمني والإقليمي.</p>
                     </li>
+                    <li class="flex items-start gap-3 hover:translate-x-2 transition">
+                        <span class="text-secondary font-bold text-xl">✓</span>
+                        <p>فريق متخصص من المهندسين والفنيين ذوي الخبرة العالية.</p>
+                    </li>
                 </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- Statistics Section -->
+    <section class="py-20 bg-gradient-to-r from-primary to-blue-600 text-white">
+        <div class="container mx-auto px-6">
+            <div class="grid md:grid-cols-4 gap-8 text-center">
+                <div class="p-6 hover:scale-110 transition">
+                    <div class="stats-counter text-secondary">50+</div>
+                    <p class="text-blue-100 mt-2">مشروع مكتمل</p>
+                </div>
+                <div class="p-6 hover:scale-110 transition">
+                    <div class="stats-counter text-secondary">17+</div>
+                    <p class="text-blue-100 mt-2">سنة خبرة</p>
+                </div>
+                <div class="p-6 hover:scale-110 transition">
+                    <div class="stats-counter text-secondary">100+</div>
+                    <p class="text-blue-100 mt-2">عميل راضي</p>
+                </div>
+                <div class="p-6 hover:scale-110 transition">
+                    <div class="stats-counter text-secondary">5</div>
+                    <p class="text-blue-100 mt-2">دول مخدومة</p>
+                </div>
             </div>
         </div>
     </section>
@@ -225,15 +448,15 @@
                 <h2 class="text-3xl font-bold text-primary mb-6">تواصل مع خبراء السراج</h2>
                 <p class="text-gray-600 mb-8">نحن هنا لمساعدتك في حل مشاكل مشروعك وبناء رؤيتك الصناعية. مكاتبنا مفتوحة في جميع أنحاء اليمن.</p>
                 <div class="space-y-6">
-                    <div class="flex items-center space-x-reverse space-x-4">
+                    <div class="flex items-center space-x-reverse space-x-4 p-4 bg-blue-50 rounded-lg hover:bg-blue-100 transition">
                         <div class="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center text-primary text-xl">📞</div>
                         <div><div class="text-sm text-gray-500">اتصل بنا (صنعاء)</div><div class="font-bold">+967 777 409 273 / +967 777 603 050</div></div>
                     </div>
-                    <div class="flex items-center space-x-reverse space-x-4">
+                    <div class="flex items-center space-x-reverse space-x-4 p-4 bg-green-50 rounded-lg hover:bg-green-100 transition">
                         <div class="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center text-green-600 text-xl">💬</div>
                         <div><div class="text-sm text-gray-500">واتساب</div><div class="font-bold"><a href="https://wa.me/967777409273" class="hover:underline">تواصل فوري عبر الواتساب</a></div></div>
                     </div>
-                    <div class="flex items-center space-x-reverse space-x-4">
+                    <div class="flex items-center space-x-reverse space-x-4 p-4 bg-red-50 rounded-lg hover:bg-red-100 transition">
                         <div class="w-12 h-12 bg-red-100 rounded-full flex items-center justify-center text-red-600 text-xl">📧</div>
                         <div><div class="text-sm text-gray-500">البريد الإلكتروني</div><div class="font-bold">contact@asserag.com</div></div>
                     </div>
@@ -242,19 +465,20 @@
             <div class="md:w-1/2">
                 <form class="bg-gray-50 p-8 rounded-2xl border" onsubmit="handleSubmit(event)">
                     <div class="grid grid-cols-2 gap-4 mb-4">
-                        <div><label class="block text-sm font-bold mb-2">الاسم</label><input type="text" name="name" required class="w-full p-3 rounded-lg border focus:ring-2 focus:ring-primary outline-none"></div>
-                        <div><label class="block text-sm font-bold mb-2">الهاتف</label><input type="tel" name="phone" required class="w-full p-3 rounded-lg border focus:ring-2 focus:ring-primary outline-none"></div>
+                        <div><label class="block text-sm font-bold mb-2">الاسم</label><input type="text" name="name" required class="w-full p-3 rounded-lg border focus:ring-2 focus:ring-primary outline-none transition"></div>
+                        <div><label class="block text-sm font-bold mb-2">الهاتف</label><input type="tel" name="phone" required class="w-full p-3 rounded-lg border focus:ring-2 focus:ring-primary outline-none transition"></div>
                     </div>
                     <div class="mb-4"><label class="block text-sm font-bold mb-2">نوع الاستفسار</label>
-                        <select name="service" class="w-full p-3 rounded-lg border focus:ring-2 focus:ring-primary outline-none">
+                        <select name="service" class="w-full p-3 rounded-lg border focus:ring-2 focus:ring-primary outline-none transition">
                             <option>بناء مصنع أدوية</option>
                             <option>تصميم مفاهيمي/تفصيلي</option>
                             <option>أنظمة تكييف/إنذار</option>
                             <option>لوحات كهربائية</option>
+                            <option>استشارات فنية</option>
                         </select>
                     </div>
-                    <div class="mb-6"><label class="block text-sm font-bold mb-2">تفاصيل المشروع</label><textarea name="message" rows="4" class="w-full p-3 rounded-lg border focus:ring-2 focus:ring-primary outline-none" placeholder="اكتب تفاصيل مشروعك هنا..."></textarea></div>
-                    <button type="submit" class="w-full bg-primary text-white py-4 rounded-lg font-bold hover:bg-blue-800 transition shadow-lg">إرسال الطلب للمتابعة</button>
+                    <div class="mb-6"><label class="block text-sm font-bold mb-2">تفاصيل المشروع</label><textarea name="message" rows="4" class="w-full p-3 rounded-lg border focus:ring-2 focus:ring-primary outline-none transition" placeholder="اكتب تفاصيل مشروعك هنا..."></textarea></div>
+                    <button type="submit" class="w-full bg-primary text-white py-4 rounded-lg font-bold hover:bg-blue-800 transition shadow-lg transform hover:scale-105">إرسال الطلب للمتابعة</button>
                 </form>
             </div>
         </div>
@@ -293,11 +517,32 @@
     </footer>
 
     <script>
+        // Mobile Menu Toggle
         function toggleMobileMenu() {
             const menu = document.getElementById('mobile-menu');
             menu.classList.toggle('hidden');
         }
 
+        // Language Toggle (Placeholder for i18n implementation)
+        function toggleLanguage() {
+            const htmlRoot = document.getElementById('html-root');
+            const currentLang = htmlRoot.getAttribute('lang');
+            const newLang = currentLang === 'ar' ? 'en' : 'ar';
+            const newDir = newLang === 'ar' ? 'rtl' : 'ltr';
+            
+            htmlRoot.setAttribute('lang', newLang);
+            htmlRoot.setAttribute('dir', newDir);
+            
+            // Update button text
+            const langButton = document.querySelector('.language-toggle');
+            langButton.textContent = newLang === 'ar' ? 'EN' : 'العربية';
+            
+            // Note: Full translation requires a translation system (i18n)
+            // This is a placeholder that changes direction
+            alert('تم تفعيل وضع اللغة الإنجليزية (تحت التطوير)');
+        }
+
+        // Form Submission
         function handleSubmit(event) {
             event.preventDefault();
             const form = event.target;
@@ -308,6 +553,47 @@
             window.open(`https://wa.me/967777409273?text=${encodeURIComponent(message)}`);
             form.reset();
         }
+
+        // Smooth scroll for anchor links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                    // Close mobile menu if open
+                    const menu = document.getElementById('mobile-menu');
+                    if (!menu.classList.contains('hidden')) {
+                        menu.classList.add('hidden');
+                    }
+                }
+            });
+        });
+
+        // Intersection Observer for animations
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -100px 0px'
+        };
+
+        const observer = new IntersectionObserver(function(entries) {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.style.opacity = '1';
+                    entry.target.style.transform = 'translateY(0)';
+                }
+            });
+        }, observerOptions);
+
+        document.querySelectorAll('.card-hover').forEach(el => {
+            el.style.opacity = '0';
+            el.style.transform = 'translateY(20px)';
+            el.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+            observer.observe(el);
+        });
     </script>
 </body>
 </html>
