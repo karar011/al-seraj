@@ -1,821 +1,300 @@
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>السراج للتجهيزات الصناعية | وكيل Asenware & Ekingair الحصري</title>
-<meta name="description" content="السراج للتجهيزات الصناعية - الوكيل الحصري لـ Asenware وEkingair في اليمن وجنوب إفريقيا. توريد وتركيب مصانع الأدوية والإنذار والتكييف.">
-<meta name="keywords" content="السراج, Asenware, Ekingair, مصانع أدوية, إنذار حريق, تكييف صناعي, اليمن, جنوب إفريقيا">
-<meta name="author" content="Al-Seraj Industrial Equipment">
-<meta name="robots" content="index, follow">
-<link rel="canonical" href="https://karar011.github.io/al-seraj-website-v2/">
-
-<style>
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-:root {
-  --primary-color: #1a3a52;
-  --secondary-color: #2563eb;
-  --accent-color: #f59e0b;
-  --danger-color: #ef4444;
-  --success-color: #10b981;
-  --text-dark: #1f2937;
-  --text-light: #6b7280;
-  --bg-light: #f9fafb;
-  --bg-white: #ffffff;
-  --border-color: #e5e7eb;
-  --shadow: 0 10px 30px rgba(0,0,0,0.1);
-  --shadow-lg: 0 20px 50px rgba(0,0,0,0.15);
-}
-
-html {
-  scroll-behavior: smooth;
-}
-
-body {
-  font-family: 'Segoe UI', 'Tahoma', sans-serif;
-  line-height: 1.6;
-  color: var(--text-dark);
-  background-color: var(--bg-light);
-  direction: rtl;
-}
-
-/* ===== HEADER & NAVBAR ===== */
-header {
-  background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
-  color: white;
-  padding: 0;
-  position: fixed;
-  width: 100%;
-  top: 0;
-  z-index: 1000;
-  box-shadow: var(--shadow);
-}
-
-.navbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 1rem 2rem;
-  max-width: 1400px;
-  margin: 0 auto;
-  width: 100%;
-}
-
-.logo {
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
-  font-size: 1.6rem;
-  font-weight: 700;
-  text-decoration: none;
-  color: white;
-  transition: all 0.3s ease;
-}
-
-.logo:hover {
-  transform: scale(1.05);
-}
-
-.logo-icon {
-  width: 50px;
-  height: 50px;
-  background: linear-gradient(135deg, var(--accent-color), #ff8c00);
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 1.8rem;
-  font-weight: bold;
-  color: white;
-  box-shadow: 0 4px 15px rgba(245, 158, 11, 0.4);
-  border: 2px solid rgba(255,255,255,0.3);
-  transition: all 0.3s ease;
-}
-
-.logo-icon:hover {
-  transform: scale(1.1) rotate(5deg);
-  box-shadow: 0 6px 20px rgba(245, 158, 11, 0.6);
-}
-
-.nav-menu {
-  display: flex;
-  gap: 2rem;
-  list-style: none;
-  align-items: center;
-}
-
-.nav-menu a {
-  color: white;
-  text-decoration: none;
-  font-size: 0.95rem;
-  transition: all 0.3s ease;
-  padding: 0.5rem 1rem;
-  border-radius: 5px;
-}
-
-.nav-menu a:hover {
-  background: rgba(255,255,255,0.2);
-  transform: translateY(-2px);
-}
-
-.nav-toggle {
-  display: none;
-  background: none;
-  border: none;
-  color: white;
-  font-size: 1.5rem;
-  cursor: pointer;
-}
-
-@media (max-width: 768px) {
-  .navbar { padding: 1rem; }
-  .nav-menu { 
-    display: none;
-    position: absolute;
-    top: 100%;
-    left: 0;
-    right: 0;
-    flex-direction: column;
-    background: var(--primary-color);
-    padding: 1rem;
-    gap: 0;
-  }
-  .nav-menu.active { display: flex; }
-  .nav-toggle { display: block; }
-}
-
-/* ===== WHATSAPP BUTTON ===== */
-.whatsapp-btn {
-  position: fixed;
-  bottom: 2rem;
-  right: 2rem;
-  width: 70px;
-  height: 70px;
-  background: linear-gradient(135deg, #25d366, #1faa3d);
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-decoration: none;
-  color: white;
-  font-size: 2rem;
-  box-shadow: 0 8px 25px rgba(37, 211, 102, 0.5);
-  transition: all 0.3s ease;
-  z-index: 999;
-  animation: pulse 2s infinite;
-  border: 3px solid white;
-}
-
-.whatsapp-btn:hover {
-  transform: scale(1.15) translateY(-5px);
-  box-shadow: 0 12px 35px rgba(37, 211, 102, 0.7);
-}
-
-@keyframes pulse {
-  0%, 100% { transform: scale(1); }
-  50% { transform: scale(1.08); }
-}
-
-.whatsapp-label {
-  position: absolute;
-  bottom: 80px;
-  right: 0;
-  background: white;
-  color: #25d366;
-  padding: 0.5rem 1rem;
-  border-radius: 5px;
-  font-size: 0.9rem;
-  font-weight: bold;
-  white-space: nowrap;
-  box-shadow: var(--shadow);
-  opacity: 0;
-  transition: opacity 0.3s ease;
-}
-
-.whatsapp-btn:hover .whatsapp-label {
-  opacity: 1;
-}
-
-@media (max-width: 768px) {
-  .whatsapp-btn {
-    bottom: 1rem;
-    right: 1rem;
-    width: 50px;
-    height: 50px;
-    font-size: 1.5rem;
-  }
-}
-
-/* ===== HERO SECTION ===== */
-.hero {
-  background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
-  color: white;
-  padding: 150px 2rem 100px;
-  text-align: center;
-  margin-top: 70px;
-}
-
-.hero-content {
-  max-width: 800px;
-  margin: 0 auto;
-}
-
-.hero h1 {
-  font-size: 3rem;
-  margin-bottom: 1rem;
-  font-weight: 700;
-}
-
-.hero p {
-  font-size: 1.2rem;
-  margin-bottom: 2rem;
-  opacity: 0.95;
-}
-
-.hero-stats {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-  gap: 2rem;
-  margin-top: 3rem;
-  padding-top: 2rem;
-  border-top: 1px solid rgba(255,255,255,0.2);
-}
-
-.stat {
-  text-align: center;
-}
-
-.stat-number {
-  font-size: 2rem;
-  font-weight: 700;
-  margin-bottom: 0.5rem;
-}
-
-.stat-label {
-  font-size: 0.9rem;
-  opacity: 0.9;
-}
-
-.cta-btn {
-  display: inline-block;
-  background: var(--accent-color);
-  color: white;
-  padding: 0.75rem 2rem;
-  border-radius: 50px;
-  text-decoration: none;
-  font-weight: 600;
-  transition: all 0.3s ease;
-  border: 2px solid var(--accent-color);
-  cursor: pointer;
-  font-size: 1rem;
-}
-
-.cta-btn:hover {
-  background: transparent;
-  color: var(--accent-color);
-  transform: translateY(-2px);
-  box-shadow: 0 5px 15px rgba(245, 158, 11, 0.3);
-}
-
-@media (max-width: 768px) {
-  .hero {
-    padding: 120px 1rem 80px;
-  }
-  .hero h1 {
-    font-size: 2rem;
-  }
-  .hero p {
-    font-size: 1rem;
-  }
-}
-
-/* ===== MAIN CONTENT ===== */
-main {
-  max-width: 1400px;
-  margin: 0 auto;
-  padding: 0 2rem;
-}
-
-section {
-  padding: 4rem 0;
-  border-bottom: 1px solid var(--border-color);
-}
-
-section:last-child {
-  border-bottom: none;
-}
-
-.section-title {
-  font-size: 2.5rem;
-  margin-bottom: 0.5rem;
-  color: var(--primary-color);
-  font-weight: 700;
-}
-
-.section-subtitle {
-  font-size: 1.1rem;
-  color: var(--text-light);
-  margin-bottom: 2rem;
-}
-
-/* ===== SERVICES GRID ===== */
-.services-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 2rem;
-  margin-top: 2rem;
-}
-
-.service-card {
-  background: white;
-  padding: 2rem;
-  border-radius: 10px;
-  box-shadow: var(--shadow);
-  transition: all 0.3s ease;
-  border-top: 4px solid var(--secondary-color);
-}
-
-.service-card:hover {
-  transform: translateY(-5px);
-  box-shadow: var(--shadow-lg);
-}
-
-.service-icon {
-  font-size: 2.5rem;
-  margin-bottom: 1rem;
-}
-
-.service-card h3 {
-  font-size: 1.3rem;
-  margin-bottom: 0.5rem;
-  color: var(--primary-color);
-}
-
-.service-card p {
-  color: var(--text-light);
-  line-height: 1.8;
-}
-
-/* ===== CAROUSEL ===== */
-.carousel {
-  background: white;
-  border-radius: 10px;
-  overflow: hidden;
-  box-shadow: var(--shadow);
-  margin: 2rem 0;
-}
-
-.carousel-container {
-  position: relative;
-  width: 100%;
-  height: 300px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
-  color: white;
-  font-size: 1.5rem;
-  font-weight: bold;
-}
-
-.carousel-controls {
-  display: flex;
-  justify-content: center;
-  gap: 1rem;
-  padding: 1rem;
-  background: var(--bg-light);
-}
-
-.carousel-btn {
-  background: var(--secondary-color);
-  color: white;
-  border: none;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  cursor: pointer;
-  font-size: 1.2rem;
-  transition: all 0.3s ease;
-}
-
-.carousel-btn:hover {
-  background: var(--primary-color);
-  transform: scale(1.1);
-}
-
-/* ===== CONTACT FORM ===== */
-.contact-form {
-  background: white;
-  padding: 2rem;
-  border-radius: 10px;
-  box-shadow: var(--shadow);
-  max-width: 600px;
-  margin: 2rem auto;
-}
-
-.form-group {
-  margin-bottom: 1.5rem;
-}
-
-.form-group label {
-  display: block;
-  margin-bottom: 0.5rem;
-  font-weight: 600;
-  color: var(--primary-color);
-}
-
-.form-group input,
-.form-group textarea {
-  width: 100%;
-  padding: 0.75rem;
-  border: 1px solid var(--border-color);
-  border-radius: 5px;
-  font-family: inherit;
-  font-size: 1rem;
-  transition: all 0.3s ease;
-}
-
-.form-group input:focus,
-.form-group textarea:focus {
-  outline: none;
-  border-color: var(--secondary-color);
-  box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
-}
-
-.form-group textarea {
-  resize: vertical;
-  min-height: 120px;
-}
-
-.form-submit {
-  width: 100%;
-  padding: 0.75rem;
-  background: var(--secondary-color);
-  color: white;
-  border: none;
-  border-radius: 5px;
-  font-size: 1rem;
-  font-weight: 600;
-  cursor: pointer;
-  transition: all 0.3s ease;
-}
-
-.form-submit:hover {
-  background: var(--primary-color);
-  transform: translateY(-2px);
-  box-shadow: var(--shadow);
-}
-
-/* ===== TESTIMONIALS ===== */
-.testimonials-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 2rem;
-  margin-top: 2rem;
-}
-
-.testimonial {
-  background: white;
-  padding: 2rem;
-  border-radius: 10px;
-  box-shadow: var(--shadow);
-  border-left: 4px solid var(--accent-color);
-}
-
-.testimonial-stars {
-  color: var(--accent-color);
-  font-size: 1.2rem;
-  margin-bottom: 1rem;
-}
-
-.testimonial-text {
-  font-style: italic;
-  color: var(--text-light);
-  margin-bottom: 1rem;
-  line-height: 1.8;
-}
-
-.testimonial-author {
-  font-weight: 600;
-  color: var(--primary-color);
-}
-
-/* ===== FOOTER ===== */
-footer {
-  background: var(--primary-color);
-  color: white;
-  padding: 3rem 2rem 1rem;
-  margin-top: 4rem;
-}
-
-.footer-content {
-  max-width: 1400px;
-  margin: 0 auto;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 2rem;
-  margin-bottom: 2rem;
-}
-
-.footer-section h3 {
-  font-size: 1.2rem;
-  margin-bottom: 1rem;
-}
-
-.footer-section ul {
-  list-style: none;
-}
-
-.footer-section ul li {
-  margin-bottom: 0.5rem;
-}
-
-.footer-section a {
-  color: rgba(255,255,255,0.8);
-  text-decoration: none;
-  transition: all 0.3s ease;
-}
-
-.footer-section a:hover {
-  color: var(--accent-color);
-}
-
-.footer-bottom {
-  border-top: 1px solid rgba(255,255,255,0.2);
-  padding-top: 1rem;
-  text-align: center;
-  color: rgba(255,255,255,0.8);
-}
-
-/* ===== RESPONSIVE ===== */
-@media (max-width: 768px) {
-  .section-title {
-    font-size: 1.8rem;
-  }
-  
-  .services-grid,
-  .testimonials-grid {
-    grid-template-columns: 1fr;
-  }
-  
-  main {
-    padding: 0 1rem;
-  }
-  
-  section {
-    padding: 2rem 0;
-  }
-}
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>السراج للتجهيزات الصناعية | الوكيل المعتمد لـ Asenware و Ekingair</title>
+    
+    <!-- SEO & Meta Tags -->
+    <meta name="description" content="شركة السراج للتجهيزات الصناعية، الوكيل الحصري المعتمد لـ Asenware و Ekingair في اليمن وشرق إفريقيا. متخصصون في تجهيز مصانع الأدوية وأنظمة إنذار الحريق والتكييف الصناعي.">
+    <meta name="keywords" content="السراج، تجهيزات صناعية، مصانع أدوية، إنذار حريق، Asenware، Ekingair، تكييف صناعي، اليمن، صنعاء">
+    <meta property="og:title" content="السراج للتجهيزات الصناعية - حلول صناعية متكاملة">
+    <meta property="og:description" content="نحن نضمن نجاح مشاريعكم من خلال حلول مخصصة تلبي احتياجاتكم الفريدة منذ عام 2006.">
+    <meta property="og:url" content="https://asserag.com">
+    <meta property="og:type" content="website">
+
+    <!-- Tailwind CSS & Fonts -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@300;400;500;700&display=swap" rel="stylesheet">
+    
+    <style>
+        body { font-family: 'Tajawal', sans-serif; scroll-behavior: smooth; }
+        .gradient-bg { background: linear-gradient(135deg, #1e3a8a 0%, #1e40af 100%); }
+        .card-hover:hover { transform: translateY(-10px); transition: all 0.3s ease; }
+        .product-card { border-top: 4px solid #1e40af; }
+    </style>
+
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#1e3a8a',
+                        secondary: '#facc15',
+                        dark: '#111827',
+                    }
+                }
+            }
+        }
+    </script>
 </head>
-<body>
+<body class="bg-gray-50 text-dark">
 
-<!-- ===== HEADER ===== -->
-<header>
-  <nav class="navbar">
-    <a href="#" class="logo">
-      <div class="logo-icon">S</div>
-      <span>السراج</span>
-    </a>
-    <ul class="nav-menu">
-      <li><a href="#home">الرئيسية</a></li>
-      <li><a href="#services">الخدمات</a></li>
-      <li><a href="#products">المنتجات</a></li>
-      <li><a href="#contact">تواصل</a></li>
-    </ul>
-    <button class="nav-toggle" onclick="toggleMenu()">☰</button>
-  </nav>
-</header>
+    <!-- Navigation -->
+    <nav class="bg-white shadow-md sticky top-0 z-50">
+        <div class="container mx-auto px-6 py-4 flex justify-between items-center">
+            <div class="flex items-center space-x-reverse space-x-3">
+                <div class="w-10 h-10 gradient-bg rounded-lg flex items-center justify-center text-white font-bold text-xl">S</div>
+                <span class="text-2xl font-bold text-primary">السراج</span>
+            </div>
+            <div class="hidden md:flex space-x-reverse space-x-8 font-medium">
+                <a href="#" class="hover:text-primary transition">الرئيسية</a>
+                <a href="#services" class="hover:text-primary transition">خدماتنا</a>
+                <a href="#products" class="hover:text-primary transition">المنتجات</a>
+                <a href="#about" class="hover:text-primary transition">عن الشركة</a>
+                <a href="#contact" class="bg-primary text-white px-6 py-2 rounded-full hover:bg-blue-800 transition">تواصل معنا</a>
+            </div>
+            <button class="md:hidden text-2xl" onclick="toggleMobileMenu()">☰</button>
+        </div>
+        <!-- Mobile Menu -->
+        <div id="mobile-menu" class="hidden md:hidden bg-white border-t px-6 py-4 space-y-4">
+            <a href="#" class="block hover:text-primary">الرئيسية</a>
+            <a href="#services" class="block hover:text-primary">خدماتنا</a>
+            <a href="#products" class="block hover:text-primary">المنتجات</a>
+            <a href="#contact" class="block text-primary font-bold">تواصل معنا</a>
+        </div>
+    </nav>
 
-<!-- ===== WHATSAPP BUTTON ===== -->
-<a href="https://wa.me/967777603050?text=السلام عليكم، أريد الاستفسار عن خدماتكم" target="_blank" class="whatsapp-btn">
-  <span>💬</span>
-  <span class="whatsapp-label">واتساب</span>
-</a>
+    <!-- Hero Section -->
+    <header class="gradient-bg text-white py-24 px-6 relative overflow-hidden">
+        <div class="container mx-auto flex flex-col md:flex-row items-center relative z-10">
+            <div class="md:w-1/2 space-y-8 animate-fade-in">
+                <h1 class="text-4xl md:text-6xl font-bold leading-tight">شريككم الاستراتيجي في <span class="text-secondary">التجهيزات الصناعية</span></h1>
+                <p class="text-xl text-blue-100 max-w-lg">الوكيل الحصري لـ Asenware و Ekingair في اليمن. متخصصون في بناء وتجهيز مصانع الأدوية بأعلى المعايير العالمية منذ عام 2006.</p>
+                <div class="flex space-x-reverse space-x-4">
+                    <a href="#contact" class="bg-secondary text-dark px-8 py-3 rounded-lg font-bold hover:bg-yellow-400 transition">ابدأ مشروعك الآن</a>
+                    <a href="#services" class="border border-white px-8 py-3 rounded-lg font-bold hover:bg-white hover:text-primary transition">استكشف خدماتنا</a>
+                </div>
+            </div>
+            <div class="md:w-1/2 mt-12 md:mt-0 flex justify-center">
+                <div class="relative w-72 h-72 md:w-96 md:h-96 bg-blue-400 rounded-full opacity-20 animate-pulse absolute"></div>
+                <div class="bg-white/10 backdrop-blur-md p-8 rounded-2xl border border-white/20 shadow-2xl">
+                    <div class="grid grid-cols-2 gap-4 text-center">
+                        <div class="p-4 bg-white/10 rounded-xl"><div class="text-3xl font-bold text-secondary">17+</div><div class="text-sm">عاماً من الخبرة</div></div>
+                        <div class="p-4 bg-white/10 rounded-xl"><div class="text-3xl font-bold text-secondary">100+</div><div class="text-sm">مشروع ناجح</div></div>
+                        <div class="p-4 bg-white/10 rounded-xl"><div class="text-3xl font-bold text-secondary">5+</div><div class="text-sm">دول مخدومة</div></div>
+                        <div class="p-4 bg-white/10 rounded-xl"><div class="text-3xl font-bold text-secondary">24/7</div><div class="text-sm">دعم فني</div></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
 
-<!-- ===== HERO SECTION ===== -->
-<section class="hero" id="home">
-  <div class="hero-content">
-    <h1>السراج للتجهيزات الصناعية</h1>
-    <p>الوكيل الحصري المعتمد لـ Asenware و Ekingair في اليمن وجنوب إفريقيا</p>
-    <a href="#contact" class="cta-btn">تواصل معنا الآن</a>
-    
-    <div class="hero-stats">
-      <div class="stat">
-        <div class="stat-number">200+</div>
-        <div class="stat-label">مشروع منفذ</div>
-      </div>
-      <div class="stat">
-        <div class="stat-number">17+</div>
-        <div class="stat-label">سنة خبرة</div>
-      </div>
-      <div class="stat">
-        <div class="stat-number">2</div>
-        <div class="stat-label">وكالة عالمية</div>
-      </div>
-      <div class="stat">
-        <div class="stat-number">98%</div>
-        <div class="stat-label">رضا العملاء</div>
-      </div>
-    </div>
-  </div>
-</section>
+    <!-- Partners Section -->
+    <section class="py-12 bg-white border-b">
+        <div class="container mx-auto px-6">
+            <div class="flex flex-wrap justify-center items-center gap-12 grayscale opacity-60 hover:grayscale-0 hover:opacity-100 transition duration-500">
+                <span class="text-2xl font-bold text-gray-400 italic uppercase tracking-widest">Asenware</span>
+                <span class="text-2xl font-bold text-gray-400 italic uppercase tracking-widest">Ekingair</span>
+                <span class="text-2xl font-bold text-gray-400 italic uppercase tracking-widest">Pharmatrix</span>
+                <span class="text-2xl font-bold text-gray-400 italic uppercase tracking-widest">United Design</span>
+            </div>
+        </div>
+    </section>
 
-<!-- ===== MAIN CONTENT ===== -->
-<main>
-  <!-- SERVICES SECTION -->
-  <section id="services">
-    <h2 class="section-title">خدماتنا الرئيسية</h2>
-    <p class="section-subtitle">نقدم حلولاً متكاملة وموثوقة لجميع احتياجاتك الصناعية</p>
-    
-    <div class="services-grid">
-      <div class="service-card">
-        <div class="service-icon">🔥</div>
-        <h3>أنظمة الإنذار بالحريق</h3>
-        <p>أنظمة إنذار حريق متقدمة معتمدة دولياً من Asenware مع ضمان شامل وصيانة دورية.</p>
-      </div>
-      
-      <div class="service-card">
-        <div class="service-icon">❄️</div>
-        <h3>التكييف الصناعي</h3>
-        <p>حلول تكييف متخصصة للمصانع والمستشفيات من Ekingair بأعلى كفاءة وجودة.</p>
-      </div>
-      
-      <div class="service-card">
-        <div class="service-icon">💊</div>
-        <h3>مصانع الأدوية</h3>
-        <p>تصميم وتوريد وتركيب مصانع أدوية متكاملة وفق معايير GMP والمعايير الدولية.</p>
-      </div>
-      
-      <div class="service-card">
-        <div class="service-icon">💧</div>
-        <h3>معالجة المياه</h3>
-        <p>أنظمة معالجة مياه دوائية متقدمة (RO, WFI) لضمان أعلى جودة.</p>
-      </div>
-      
-      <div class="service-card">
-        <div class="service-icon">🏭</div>
-        <h3>التصميم الهندسي</h3>
-        <p>خدمات التصميم المفاهيمي والتفصيلي للمشاريع الصناعية الكبرى.</p>
-      </div>
-      
-      <div class="service-card">
-        <div class="service-icon">🔧</div>
-        <h3>الصيانة والدعم</h3>
-        <p>خدمات صيانة شاملة ودعم فني مستمر لضمان استمرارية العمليات.</p>
-      </div>
-    </div>
-  </section>
+    <!-- Services Section -->
+    <section id="services" class="py-20 container mx-auto px-6">
+        <div class="text-center mb-16">
+            <h2 class="text-3xl md:text-4xl font-bold text-primary mb-4">خدماتنا الشاملة</h2>
+            <div class="w-20 h-1 bg-secondary mx-auto"></div>
+        </div>
+        <div class="grid md:grid-cols-3 gap-8">
+            <div class="bg-white p-8 rounded-xl shadow-sm border card-hover">
+                <div class="text-4xl mb-4">🏭</div>
+                <h3 class="text-xl font-bold mb-4">تجهيز مصانع الأدوية</h3>
+                <p class="text-gray-600 leading-relaxed">تصميم مفاهيمي وتفصيلي متكامل، من المخطط العام إلى تركيب خطوط الإنتاج وفق معايير GMP.</p>
+            </div>
+            <div class="bg-white p-8 rounded-xl shadow-sm border card-hover">
+                <div class="text-4xl mb-4">🔥</div>
+                <h3 class="text-xl font-bold mb-4">أنظمة إنذار وإخماد الحريق</h3>
+                <p class="text-gray-600 leading-relaxed">وكيل Asenware: توريد وتركيب وصيانة أحدث أنظمة الكشف المبكر والإخماد التلقائي.</p>
+            </div>
+            <div class="bg-white p-8 rounded-xl shadow-sm border card-hover">
+                <div class="text-4xl mb-4">❄️</div>
+                <h3 class="text-xl font-bold mb-4">التكييف الصناعي (HVAC)</h3>
+                <p class="text-gray-600 leading-relaxed">وكيل Ekingair: أنظمة تهوية وتكييف متقدمة مخصصة للمناطق النظيفة والمختبرات والمصانع.</p>
+            </div>
+        </div>
+    </section>
 
-  <!-- PRODUCTS SECTION -->
-  <section id="products">
-    <h2 class="section-title">معرض المنتجات</h2>
-    <p class="section-subtitle">أحدث المنتجات والحلول الصناعية</p>
-    
-    <div class="carousel">
-      <div class="carousel-container">
-        🔥 أنظمة الإنذار بالحريق Asenware
-      </div>
-      <div class="carousel-controls">
-        <button class="carousel-btn">❮</button>
-        <button class="carousel-btn">❯</button>
-      </div>
-    </div>
-  </section>
+    <!-- Products Showcase -->
+    <section id="products" class="py-20 bg-gray-100">
+        <div class="container mx-auto px-6">
+            <div class="flex justify-between items-end mb-12">
+                <div>
+                    <h2 class="text-3xl font-bold text-primary mb-2">معرض المنتجات</h2>
+                    <p class="text-gray-600">أحدث التقنيات الصناعية بين يديك</p>
+                </div>
+                <a href="https://wa.me/967777603050" class="text-primary font-bold hover:underline">اطلب الكتالوج الكامل ←</a>
+            </div>
+            <div class="grid md:grid-cols-4 gap-6">
+                <!-- Product 1 -->
+                <div class="bg-white rounded-lg overflow-hidden shadow-md product-card card-hover">
+                    <div class="h-48 bg-gray-200 flex items-center justify-center text-gray-400">صورة Asenware Panel</div>
+                    <div class="p-4">
+                        <span class="text-xs font-bold text-blue-600 uppercase">أنظمة إنذار</span>
+                        <h4 class="font-bold mt-1">لوحات تحكم Asenware</h4>
+                        <p class="text-sm text-gray-500 mt-2">أنظمة ذكية قابلة للعنونة لمختلف المنشآت.</p>
+                    </div>
+                </div>
+                <!-- Product 2 -->
+                <div class="bg-white rounded-lg overflow-hidden shadow-md product-card card-hover">
+                    <div class="h-48 bg-gray-200 flex items-center justify-center text-gray-400">صورة AHU Unit</div>
+                    <div class="p-4">
+                        <span class="text-xs font-bold text-blue-600 uppercase">تكييف صناعي</span>
+                        <h4 class="font-bold mt-1">وحدات معالجة الهواء (AHU)</h4>
+                        <p class="text-sm text-gray-500 mt-2">كفاءة عالية في تنقية وتبريد الهواء للمصانع.</p>
+                    </div>
+                </div>
+                <!-- Product 3 -->
+                <div class="bg-white rounded-lg overflow-hidden shadow-md product-card card-hover">
+                    <div class="h-48 bg-gray-200 flex items-center justify-center text-gray-400">صورة Fire Extinguisher</div>
+                    <div class="p-4">
+                        <span class="text-xs font-bold text-blue-600 uppercase">إخماد حريق</span>
+                        <h4 class="font-bold mt-1">أنظمة FM200</h4>
+                        <p class="text-sm text-gray-500 mt-2">حلول إخماد غازية آمنة للأجهزة الحساسة.</p>
+                    </div>
+                </div>
+                <!-- Product 4 -->
+                <div class="bg-white rounded-lg overflow-hidden shadow-md product-card card-hover">
+                    <div class="h-48 bg-gray-200 flex items-center justify-center text-gray-400">صورة Control Panel</div>
+                    <div class="p-4">
+                        <span class="text-xs font-bold text-blue-600 uppercase">كهرباء</span>
+                        <h4 class="font-bold mt-1">لوحات توزيع الطاقة</h4>
+                        <p class="text-sm text-gray-500 mt-2">تصنيع محلي بمواصفات عالمية لجميع الأحمال.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
-  <!-- TESTIMONIALS SECTION -->
-  <section>
-    <h2 class="section-title">شهادات عملائنا</h2>
-    <p class="section-subtitle">آراء عملائنا الموثوقين</p>
-    
-    <div class="testimonials-grid">
-      <div class="testimonial">
-        <div class="testimonial-stars">⭐⭐⭐⭐⭐</div>
-        <div class="testimonial-text">"خدمة احترافية وسريعة جداً. الفريق متعاون وملتزم بالجودة العالية."</div>
-        <div class="testimonial-author">مدير مستشفى صنعاء</div>
-      </div>
-      
-      <div class="testimonial">
-        <div class="testimonial-stars">⭐⭐⭐⭐⭐</div>
-        <div class="testimonial-text">"أفضل وكيل في المنطقة. منتجات أصلية وضمان موثوق وصيانة ممتازة."</div>
-        <div class="testimonial-author">مدير مصنع أدوية</div>
-      </div>
-      
-      <div class="testimonial">
-        <div class="testimonial-stars">⭐⭐⭐⭐⭐</div>
-        <div class="testimonial-text">"دعم فني ممتاز وصيانة دورية منتظمة. يستحقون التوصية بشدة."</div>
-        <div class="testimonial-author">مدير مركز تجاري</div>
-      </div>
-    </div>
-  </section>
+    <!-- Testimonials -->
+    <section class="py-20 container mx-auto px-6">
+        <div class="bg-primary rounded-3xl p-12 text-white text-center relative overflow-hidden">
+            <div class="absolute top-0 left-0 w-32 h-32 bg-white/10 rounded-full -translate-x-1/2 -translate-y-1/2"></div>
+            <h2 class="text-3xl font-bold mb-12 relative z-10">ماذا يقول عملاؤنا؟</h2>
+            <div class="grid md:grid-cols-3 gap-8 relative z-10">
+                <div class="bg-white/10 backdrop-blur-sm p-6 rounded-xl text-right italic">
+                    <p class="mb-4">"فريق السراج قدم لنا حلولاً متكاملة لمصنعنا الجديد، التزامهم بالمواعيد والجودة كان استثنائياً."</p>
+                    <span class="font-bold text-secondary">— مدير مصنع أدوية، صنعاء</span>
+                </div>
+                <div class="bg-white/10 backdrop-blur-sm p-6 rounded-xl text-right italic border-t-2 border-secondary">
+                    <p class="mb-4">"كوكيل لـ Asenware، هم الأفضل في تقديم الدعم الفني وقطع الغيار الأصلية في المنطقة."</p>
+                    <span class="font-bold text-secondary">— استشاري أنظمة أمان</span>
+                </div>
+                <div class="bg-white/10 backdrop-blur-sm p-6 rounded-xl text-right italic">
+                    <p class="mb-4">"أنظمة التكييف من Ekingair التي ركبها السراج تعمل بكفاءة عالية منذ سنوات دون مشاكل."</p>
+                    <span class="font-bold text-secondary">— مدير مستشفى تخصصي</span>
+                </div>
+            </div>
+        </div>
+    </section>
 
-  <!-- CONTACT SECTION -->
-  <section id="contact">
-    <h2 class="section-title">تواصل معنا</h2>
-    <p class="section-subtitle">نحن هنا للإجابة على جميع استفساراتك</p>
-    
-    <form class="contact-form" onsubmit="handleSubmit(event)">
-      <div class="form-group">
-        <label>الاسم الكامل</label>
-        <input type="text" required placeholder="أدخل اسمك">
-      </div>
-      
-      <div class="form-group">
-        <label>البريد الإلكتروني</label>
-        <input type="email" required placeholder="your@email.com">
-      </div>
-      
-      <div class="form-group">
-        <label>رقم الهاتف</label>
-        <input type="tel" required placeholder="+967 777 603 050">
-      </div>
-      
-      <div class="form-group">
-        <label>الموضوع</label>
-        <input type="text" required placeholder="موضوع الاستفسار">
-      </div>
-      
-      <div class="form-group">
-        <label>الرسالة</label>
-        <textarea required placeholder="اكتب رسالتك هنا..."></textarea>
-      </div>
-      
-      <button type="submit" class="form-submit">إرسال الرسالة</button>
-    </form>
+    <!-- Contact Section -->
+    <section id="contact" class="py-20 bg-white">
+        <div class="container mx-auto px-6 flex flex-col md:flex-row gap-12">
+            <div class="md:w-1/2">
+                <h2 class="text-3xl font-bold text-primary mb-6">تواصل معنا اليوم</h2>
+                <p class="text-gray-600 mb-8">هل لديك مشروع جديد؟ أو استفسار عن منتجاتنا؟ فريقنا الفني جاهز لخدمتك في أي وقت.</p>
+                <div class="space-y-6">
+                    <div class="flex items-center space-x-reverse space-x-4">
+                        <div class="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center text-primary text-xl">📞</div>
+                        <div><div class="text-sm text-gray-500">اتصل بنا</div><div class="font-bold">+967 777 603 050</div></div>
+                    </div>
+                    <div class="flex items-center space-x-reverse space-x-4">
+                        <div class="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center text-green-600 text-xl">💬</div>
+                        <div><div class="text-sm text-gray-500">واتساب</div><div class="font-bold"><a href="https://wa.me/967777603050" class="hover:underline">تواصل فوري عبر الواتساب</a></div></div>
+                    </div>
+                    <div class="flex items-center space-x-reverse space-x-4">
+                        <div class="w-12 h-12 bg-red-100 rounded-full flex items-center justify-center text-red-600 text-xl">📧</div>
+                        <div><div class="text-sm text-gray-500">البريد الإلكتروني</div><div class="font-bold">contact@asserag.com</div></div>
+                    </div>
+                </div>
+            </div>
+            <div class="md:w-1/2">
+                <form class="bg-gray-50 p-8 rounded-2xl border" onsubmit="handleSubmit(event)">
+                    <div class="grid grid-cols-2 gap-4 mb-4">
+                        <div><label class="block text-sm font-bold mb-2">الاسم</label><input type="text" name="name" required class="w-full p-3 rounded-lg border focus:ring-2 focus:ring-primary outline-none"></div>
+                        <div><label class="block text-sm font-bold mb-2">الهاتف</label><input type="tel" name="phone" required class="w-full p-3 rounded-lg border focus:ring-2 focus:ring-primary outline-none"></div>
+                    </div>
+                    <div class="mb-4"><label class="block text-sm font-bold mb-2">نوع الخدمة</label>
+                        <select name="service" class="w-full p-3 rounded-lg border focus:ring-2 focus:ring-primary outline-none">
+                            <option>تجهيز مصانع أدوية</option>
+                            <option>أنظمة إنذار حريق</option>
+                            <option>تكييف صناعي</option>
+                            <option>أخرى</option>
+                        </select>
+                    </div>
+                    <div class="mb-6"><label class="block text-sm font-bold mb-2">الرسالة</label><textarea name="message" rows="4" class="w-full p-3 rounded-lg border focus:ring-2 focus:ring-primary outline-none"></textarea></div>
+                    <button type="submit" class="w-full bg-primary text-white py-4 rounded-lg font-bold hover:bg-blue-800 transition shadow-lg">إرسال الطلب عبر واتساب</button>
+                </form>
+            </div>
+        </div>
+    </section>
 
-    <div style="margin-top: 3rem; text-align: center;">
-      <h3 style="color: var(--primary-color); margin-bottom: 1rem;">معلومات التواصل</h3>
-      <p style="margin-bottom: 0.5rem;">📞 الهاتف: <strong>+967 777 603 050</strong></p>
-      <p style="margin-bottom: 0.5rem;">📧 البريد: <strong>contact@asserag.com</strong></p>
-      <p style="margin-bottom: 1rem;">📍 الموقع: <strong>شارع الستين، صنعاء، اليمن</strong></p>
-      <a href="https://wa.me/967777603050" target="_blank" class="cta-btn">💬 تواصل عبر WhatsApp</a>
-    </div>
-  </section>
-</main>
+    <!-- Footer -->
+    <footer class="bg-dark text-gray-400 py-12 px-6">
+        <div class="container mx-auto grid md:grid-cols-4 gap-12">
+            <div class="col-span-2">
+                <div class="flex items-center space-x-reverse space-x-3 text-white mb-6">
+                    <div class="w-8 h-8 gradient-bg rounded flex items-center justify-center font-bold">S</div>
+                    <span class="text-xl font-bold">السراج للتجهيزات الصناعية</span>
+                </div>
+                <p class="max-w-md">الشركة الرائدة في مجال الحلول الصناعية المتكاملة في اليمن وشرق إفريقيا منذ عام 2006. التزامنا هو الجودة والسلامة أولاً.</p>
+            </div>
+            <div>
+                <h4 class="text-white font-bold mb-6">روابط سريعة</h4>
+                <ul class="space-y-3">
+                    <li><a href="#" class="hover:text-white transition">الرئيسية</a></li>
+                    <li><a href="#services" class="hover:text-white transition">خدماتنا</a></li>
+                    <li><a href="#products" class="hover:text-white transition">المنتجات</a></li>
+                    <li><a href="#contact" class="hover:text-white transition">تواصل معنا</a></li>
+                </ul>
+            </div>
+            <div>
+                <h4 class="text-white font-bold mb-6">الدول المخدومة</h4>
+                <ul class="space-y-3">
+                    <li>اليمن</li>
+                    <li>الصومال</li>
+                    <li>إثيوبيا</li>
+                    <li>كينيا</li>
+                    <li>تنزانيا</li>
+                </ul>
+            </div>
+        </div>
+        <div class="container mx-auto border-t border-gray-800 mt-12 pt-8 text-center text-sm">
+            <p>© 2026 السراج للتجهيزات الصناعية | جميع الحقوق محفوظة</p>
+        </div>
+    </footer>
 
-<!-- ===== FOOTER ===== -->
-<footer>
-  <div class="footer-content">
-    <div class="footer-section">
-      <h3>عن الشركة</h3>
-      <p>السراج للتجهيزات الصناعية - الوكيل الحصري المعتمد لـ Asenware و Ekingair في اليمن وجنوب إفريقيا منذ 2006.</p>
-    </div>
-    
-    <div class="footer-section">
-      <h3>الخدمات</h3>
-      <ul>
-        <li><a href="#services">أنظمة الإنذار</a></li>
-        <li><a href="#services">التكييف الصناعي</a></li>
-        <li><a href="#services">مصانع الأدوية</a></li>
-        <li><a href="#services">معالجة المياه</a></li>
-      </ul>
-    </div>
-    
-    <div class="footer-section">
-      <h3>تواصل معنا</h3>
-      <ul>
-        <li><a href="tel:+967777603050">📞 +967 777 603 050</a></li>
-        <li><a href="https://wa.me/967777603050" target="_blank">💬 WhatsApp</a></li>
-        <li><a href="mailto:contact@asserag.com">📧 البريد الإلكتروني</a></li>
-      </ul>
-    </div>
-  </div>
-  
-  <div class="footer-bottom">
-    <p>© 2026 السراج للتجهيزات الصناعية | جميع الحقوق محفوظة</p>
-  </div>
-</footer>
+    <script>
+        function toggleMobileMenu() {
+            const menu = document.getElementById('mobile-menu');
+            menu.classList.toggle('hidden');
+        }
 
-<script>
-function toggleMenu() {
-  const menu = document.querySelector('.nav-menu');
-  menu.classList.toggle('active');
-}
-
-function handleSubmit(event) {
-  event.preventDefault();
-  const form = event.target;
-  const formData = new FormData(form);
-  
-  const message = `رسالة جديدة من نموذج الاتصال:\n\nالاسم: ${formData.get('name')}\nالبريد: ${formData.get('email')}\nالهاتف: ${formData.get('phone')}\nالموضوع: ${formData.get('subject')}\nالرسالة: ${formData.get('message')}`;
-  
-  window.open(`https://wa.me/967777603050?text=${encodeURIComponent(message)}`);
-  form.reset();
-  alert('تم إرسال الرسالة بنجاح! سيتم التواصل معك قريباً.');
-}
-
-// Close menu when clicking on a link
-document.querySelectorAll('.nav-menu a').forEach(link => {
-  link.addEventListener('click', () => {
-    document.querySelector('.nav-menu').classList.remove('active');
-  });
-});
-</script>
-
+        function handleSubmit(event) {
+            event.preventDefault();
+            const form = event.target;
+            const formData = new FormData(form);
+            
+            const message = `طلب جديد من الموقع:\n\nالاسم: ${formData.get('name')}\nالهاتف: ${formData.get('phone')}\nالخدمة: ${formData.get('service')}\nالرسالة: ${formData.get('message')}`;
+            
+            window.open(`https://wa.me/967777603050?text=${encodeURIComponent(message)}`);
+            form.reset();
+        }
+    </script>
 </body>
 </html>
