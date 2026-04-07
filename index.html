@@ -99,6 +99,65 @@
             font-weight: bold;
             color: #1e3a8a;
         }
+        
+        /* Floating WhatsApp Button */
+        .floating-whatsapp {
+            position: fixed;
+            bottom: 30px;
+            left: 30px;
+            width: 60px;
+            height: 60px;
+            background: linear-gradient(135deg, #25d366 0%, #20ba5a 100%);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            box-shadow: 0 4px 12px rgba(37, 211, 102, 0.4);
+            z-index: 999;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            font-size: 28px;
+        }
+        
+        .floating-whatsapp:hover {
+            transform: scale(1.1);
+            box-shadow: 0 6px 20px rgba(37, 211, 102, 0.6);
+        }
+        
+        .floating-whatsapp:active {
+            transform: scale(0.95);
+        }
+        
+        .whatsapp-tooltip {
+            position: absolute;
+            bottom: 70px;
+            left: 0;
+            background: #25d366;
+            color: white;
+            padding: 8px 12px;
+            border-radius: 6px;
+            font-size: 12px;
+            white-space: nowrap;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.3s ease;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+        }
+        
+        .floating-whatsapp:hover .whatsapp-tooltip {
+            opacity: 1;
+        }
+        
+        @media (max-width: 768px) {
+            .floating-whatsapp {
+                bottom: 20px;
+                left: 20px;
+                width: 55px;
+                height: 55px;
+                font-size: 24px;
+            }
+        }
     </style>
 
     <script>
@@ -483,6 +542,12 @@
             </div>
         </div>
     </section>
+
+    <!-- Floating WhatsApp Button -->
+    <a href="https://wa.me/967777409273?text=السلام عليكم، أود الاستفسار عن خدماتكم" class="floating-whatsapp" title="تواصل معنا عبر الواتساب">
+        <span class="whatsapp-tooltip">تواصل معنا</span>
+        💬
+    </a>
 
     <!-- Footer -->
     <footer class="bg-dark text-gray-400 py-12 px-6">
