@@ -1,54 +1,54 @@
-# 🌟 السراج (Al-Seraj)
+# 🌟 السراج لتجهيزات مصانع الأدوية (Al-Seraj Pharmaceutical Equipment)
 
-**مشروع السراج: منصة تقنية متكاملة تهدف إلى توفير حلول برمجية مبتكرة.**
-
----
-
-## 📖 حول المشروع (About the Project)
-
-مشروع "السراج" هو مبادرة برمجية تهدف إلى تطوير أدوات وحلول ذكية تدعم المحتوى الرقمي وتوفر تجربة مستخدم فريدة. يركز المشروع على الكفاءة، السرعة، وسهولة الاستخدام.
-
-*Al-Seraj is a software initiative aimed at developing smart tools and innovative solutions that support digital content and provide a unique user experience. The project focuses on efficiency, speed, and ease of use.*
+**السراج: متخصصون في تجهيز وتصميم مصانع الأدوية بأحدث التقنيات والمعايير الدولية.**
 
 ---
 
-## 🚀 الميزات الأساسية (Key Features)
+## 📖 حول الشركة (About the Company)
 
-- ✅ **واجهة مستخدم عصرية:** تصميم متجاوب وبسيط.
-- ✅ **أداء عالٍ:** سرعة في التنفيذ ومعالجة البيانات.
-- ✅ **دعم اللغة العربية:** واجهة برمجية تدعم المحتوى العربي بشكل كامل.
-- ✅ **سهولة التخصيص:** كود نظيف وقابل للتطوير.
+شركة السراج متخصصة في تجهيز وتصميم مصانع الأدوية والمستحضرات الصيدلانية. نحن وكلاء معتمدون للشركة المصرية المتحدة وشركاء موثوقون لـ PharMatrix الأردنية. نقدم حلولاً متكاملة تجمع بين الابتكار والالتزام الصارم بالمعايير الدولية والتشريعات الصيدلانية.
 
----
-
-## 🛠️ التقنيات المستخدمة (Technologies)
-
-- **Language:** JavaScript / TypeScript / Python (Pending implementation)
-- **Frameworks:** React / Next.js / Tailwind CSS
-- **Tools:** Git, GitHub Actions
+*Al-Seraj is specialized in pharmaceutical equipment supply and pharmaceutical factory design. We are authorized agents of the Egyptian United Company and trusted partners of PharMatrix Jordan. We provide integrated solutions that combine innovation with strict compliance to international standards and pharmaceutical regulations.*
 
 ---
 
-## ⚙️ البدء في العمل (Getting Started)
+## 🚀 الخدمات الأساسية (Key Services)
 
-للبدء في تشغيل المشروع محلياً، اتبع الخطوات التالية:
+- ✅ **التصميم المفاهيمي:** خطط ومخططات شاملة لمصانع الأدوية.
+- ✅ **التصميم التفصيلي:** تصاميم هندسية دقيقة للأنظمة الكهربائية والميكانيكية والمدنية.
+- ✅ **اللوحات الكهربائية:** تصنيع وتجميع لوحات كهربائية احترافية.
+- ✅ **أنظمة التهوية (HVAC):** تصميم وتركيب أنظمة متقدمة.
+- ✅ **معالجة المياه:** حلول متقدمة لمعالجة المياه والهواء المضغوط.
+- ✅ **الاستشارات الهندسية:** استشارات متخصصة لتحسين العمليات الإنتاجية.
 
-```bash
-# استنساخ المستودع
-git clone https://github.com/SCI5A/al-seraj.git
+---
 
-# الانتقال إلى المجلد
-cd al-seraj
+## 🛠️ المجالات المتخصصة (Specializations)
 
-# تثبيت التبعيات (في حال وجودها)
-npm install # أو pip install -r requirements.txt
+- **التصميم الهندسي:** CAD, BIM, AutoCAD
+- **معايير الصيدلة:** GMP, GDP, ISO 14644
+- **الأنظمة الكهربائية:** PLC, SCADA, Automation
+- **أنظمة التهوية:** HVAC Design, Clean Room Technology
+- **معالجة المياه:** Purified Water Systems, WFI Systems
+
+---
+
+## 📞 التواصل معنا (Contact Us)
+
+للاستفسار عن خدماتنا أو طلب عرض سعر:
+
+```
+الهاتف: +967 777 409 273
+البريد الإلكتروني: contact@asserag.com
+الموقع: https://asserag.com
+الموقع الثاني: https://sci5a.github.io/al-seraj/
 ```
 
 ---
 
-## 🤝 المساهمة (Contribution)
+## 🤝 الشراكات (Partnerships)
 
-نرحب بجميع المساهمات! إذا كان لديك اقتراح أو ترغب في تحسين الكود، يرجى فتح **Issue** أو إرسال **Pull Request**.
+نحن نرحب بفرص الشراكة والتعاون مع الشركات والمؤسسات المتخصصة في مجال الأدوية والصيدلة. للاستفسار عن فرص الشراكة، يرجى التواصل معنا مباشرة.
 
 ---
 
@@ -58,4 +58,6 @@ npm install # أو pip install -r requirements.txt
 
 ---
 
-**صنع بكل ❤️ بواسطة [SCI5A](https://github.com/SCI5A)**
+**تطوير وتصميم: [SCI5A](https://github.com/SCI5A)**
+
+**آخر تحديث:** أبريل 2026
