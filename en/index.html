@@ -28,6 +28,7 @@
   <script src="../homepage-menu.js"></script>
 </head>
 <body class="homepage">
+  <a class="home-skip" href="#main-content">Skip to main content</a>
   <header class="home-header">
     <div class="container">
       <nav class="home-nav" aria-label="Primary navigation">
@@ -43,7 +44,7 @@
     </div>
   </header>
 
-  <main>
+  <main id="main-content" tabindex="-1">
     <section class="home-hero" aria-labelledby="hero-title">
       <div class="container home-hero-grid">
         <div class="home-hero-copy"><span class="home-eyebrow">AL-SERAJ / INDUSTRIAL SOLUTIONS</span><h1 id="hero-title">Integrated Industrial Engineering Solutions</h1><p class="home-hero-lead">From engineering design and procurement to installation and commissioning, we provide integrated solutions for pharmaceutical and industrial facilities based on project requirements and applicable standards.</p><div class="home-hero-actions"><a class="home-button home-button-primary" href="../contact.html">Request an Engineering Consultation</a><a class="home-button home-button-secondary" href="#services">Explore Our Services</a><a class="home-button home-button-whatsapp btn-whatsapp whatsapp-link" href="https://wa.me/967777603050?text=Hello%20Al-Seraj%20Industrial%20Solutions%2C%20I%20would%20like%20to%20learn%20more%20about%20your%20industrial%20and%20pharmaceutical%20solutions.%20Please%20assist%20me." target="_blank" rel="noopener noreferrer">Contact us on WhatsApp</a></div><div class="home-hero-note" aria-label="Areas of work"><span>Pharmaceutical facilities</span><span>Industrial facilities</span><span>Engineering &amp; execution</span></div></div>
@@ -75,7 +76,7 @@
   <footer class="home-footer"><div class="container home-footer-grid"><div><h3>Al-Seraj</h3><p>Integrated industrial engineering solutions for pharmaceutical and industrial facilities according to project requirements and applicable standards.</p></div><div><h3>Quick Links</h3><ul><li><a href="../about.html">About</a></li><li><a href="../services.html">Services</a></li><li><a href="../solutions.html">Solutions</a></li><li><a href="../projects.html">Projects</a></li></ul></div><div><h3>Contact</h3><ul><li><a href="../contact.html">Contact page</a></li><li><a href="../privacy-policy.html">Privacy</a></li><li><a class="whatsapp-link" href="https://wa.me/967777603050?text=Hello%20Al-Seraj%20Industrial%20Solutions%2C%20I%20would%20like%20to%20learn%20more%20about%20your%20industrial%20and%20pharmaceutical%20solutions.%20Please%20assist%20me." target="_blank" rel="noopener noreferrer">Contact us on WhatsApp</a></li></ul></div></div><div class="home-footer-bottom"><div class="container">© 2026 Al-Seraj Industrial Solutions. All rights reserved.</div></div></footer>
   <script>
     function handleHomeSubmit(event) { event.preventDefault(); var form = event.target; var status = document.getElementById('homepage-form-status'); if (!form.checkValidity()) { form.reportValidity(); status.textContent = 'Please complete the required fields.'; return; } status.textContent = 'Fields reviewed locally only. No data was sent or stored.'; form.reset(); }
-    document.querySelectorAll('a[href^="#"]').forEach(function (anchor) { anchor.addEventListener('click', function (event) { var target = document.querySelector(this.getAttribute('href')); if (target) { event.preventDefault(); target.scrollIntoView({ behavior: 'smooth' }); } }); });
+    document.querySelectorAll('a[href^="#"]').forEach(function (anchor) { anchor.addEventListener('click', function (event) { var target = document.querySelector(this.getAttribute('href')); if (target) { event.preventDefault(); if (this.classList.contains('home-skip')) target.focus({ preventScroll: true }); target.scrollIntoView({ behavior: 'smooth' }); } }); });
   </script>
 </body>
 </html>

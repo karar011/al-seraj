@@ -25,6 +25,9 @@
 .homepage button,
 .homepage a { -webkit-tap-highlight-color: transparent; }
 .homepage :focus-visible { outline: 3px solid var(--home-gold-500); outline-offset: 4px; }
+.home-skip { position: fixed; inset-inline-start: 1rem; top: -5rem; z-index: 3000; padding: .7rem 1rem; border-radius: 8px; background: var(--home-blue-950); color: #fff; text-decoration: none; font-weight: 800; box-shadow: 0 8px 20px rgba(3, 12, 32, .24); }
+.home-skip:focus { top: 1rem; }
+.homepage #main-content { scroll-margin-top: 92px; }
 .homepage .container { width: min(1180px, calc(100% - 40px)); margin-inline: auto; }
 
 /* Header */

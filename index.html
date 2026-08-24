@@ -32,6 +32,7 @@
   <script src="homepage-menu.js"></script>
 </head>
 <body class="homepage">
+  <a class="home-skip" href="#main-content">انتقل إلى المحتوى الرئيسي</a>
   <header class="home-header">
     <div class="container">
       <nav class="home-nav" aria-label="التنقل الرئيسي">
@@ -57,7 +58,7 @@
     </div>
   </header>
 
-  <main>
+  <main id="main-content" tabindex="-1">
     <section class="home-hero" aria-labelledby="hero-title">
       <div class="container home-hero-grid">
         <div class="home-hero-copy">
@@ -230,7 +231,7 @@
       form.reset();
     }
     document.querySelectorAll('a[href^="#"]').forEach(function (anchor) {
-      anchor.addEventListener('click', function (event) { var target = document.querySelector(this.getAttribute('href')); if (target) { event.preventDefault(); target.scrollIntoView({ behavior: 'smooth' }); } });
+      anchor.addEventListener('click', function (event) { var target = document.querySelector(this.getAttribute('href')); if (target) { event.preventDefault(); if (this.classList.contains('home-skip')) target.focus({ preventScroll: true }); target.scrollIntoView({ behavior: 'smooth' }); } });
     });
   </script>
 </body>
