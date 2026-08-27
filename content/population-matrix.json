@@ -1,0 +1,566 @@
+{
+  "expected_routes": 56,
+  "populated_routes": 56,
+  "entries": [
+    {
+      "route": "/about.html",
+      "language": "Arabic",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/article-fire-safety.html",
+      "language": "Arabic",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/article-gmp-standards.html",
+      "language": "Arabic",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/article-turnkey-projects.html",
+      "language": "Arabic",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/articles.html",
+      "language": "Arabic",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/capabilities.html",
+      "language": "Arabic",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/contact.html",
+      "language": "Arabic",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/index.html",
+      "language": "Arabic",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/industries.html",
+      "language": "Arabic",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/pharmaceutical-manufacturing.html",
+      "language": "Arabic",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/privacy-policy.html",
+      "language": "Arabic",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/projects.html",
+      "language": "Arabic",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/service-consulting.html",
+      "language": "Arabic",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/service-engineering-design.html",
+      "language": "Arabic",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/service-maintenance.html",
+      "language": "Arabic",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/service-pharma-setup.html",
+      "language": "Arabic",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/service-safety-systems.html",
+      "language": "Arabic",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/service-training.html",
+      "language": "Arabic",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/services.html",
+      "language": "Arabic",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/solution-cleanrooms.html",
+      "language": "Arabic",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/solution-electrical-engineering.html",
+      "language": "Arabic",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/solution-engineering-consultancy.html",
+      "language": "Arabic",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/solution-hvac-systems.html",
+      "language": "Arabic",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/solution-industrial-automation.html",
+      "language": "Arabic",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/solution-industrial-equipment.html",
+      "language": "Arabic",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/solution-pharmaceutical-facilities.html",
+      "language": "Arabic",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/solution-turnkey-industrial-projects.html",
+      "language": "Arabic",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/solutions.html",
+      "language": "Arabic",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/en/about.html",
+      "language": "English",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/en/article-fire-safety.html",
+      "language": "English",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/en/article-gmp-standards.html",
+      "language": "English",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/en/article-turnkey-projects.html",
+      "language": "English",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/en/articles.html",
+      "language": "English",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/en/capabilities.html",
+      "language": "English",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/en/contact.html",
+      "language": "English",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/en/index.html",
+      "language": "English",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/en/industries.html",
+      "language": "English",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/en/pharmaceutical-manufacturing.html",
+      "language": "English",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/en/privacy-policy.html",
+      "language": "English",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/en/projects.html",
+      "language": "English",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/en/service-consulting.html",
+      "language": "English",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/en/service-engineering-design.html",
+      "language": "English",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/en/service-maintenance.html",
+      "language": "English",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/en/service-pharma-setup.html",
+      "language": "English",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/en/service-safety-systems.html",
+      "language": "English",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/en/service-training.html",
+      "language": "English",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/en/services.html",
+      "language": "English",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/en/solution-cleanrooms.html",
+      "language": "English",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/en/solution-electrical-engineering.html",
+      "language": "English",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/en/solution-engineering-consultancy.html",
+      "language": "English",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/en/solution-hvac-systems.html",
+      "language": "English",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/en/solution-industrial-automation.html",
+      "language": "English",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/en/solution-industrial-equipment.html",
+      "language": "English",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/en/solution-pharmaceutical-facilities.html",
+      "language": "English",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/en/solution-turnkey-industrial-projects.html",
+      "language": "English",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    },
+    {
+      "route": "/en/solutions.html",
+      "language": "English",
+      "sections": 1,
+      "text_slots": 5,
+      "image_slots": 4,
+      "cta_slots": 1,
+      "cards": 3,
+      "status": "POPULATED_DEMO_PLACEHOLDER"
+    }
+  ]
+}

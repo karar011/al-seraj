@@ -1,0 +1,1519 @@
+{
+  "registry_version": "1.0",
+  "mode": "DEVELOPMENT CONTENT MODE",
+  "marker": "DEMO_PLACEHOLDER",
+  "entries": [
+    {
+      "placeholder_id": "PH-TXT-about.html-1",
+      "page": "/about.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-about.html-2",
+      "page": "/about.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-about.html-3",
+      "page": "/about.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-article-fire-safety.html-1",
+      "page": "/article-fire-safety.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-article-fire-safety.html-2",
+      "page": "/article-fire-safety.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-article-fire-safety.html-3",
+      "page": "/article-fire-safety.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-article-gmp-standards.html-1",
+      "page": "/article-gmp-standards.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-article-gmp-standards.html-2",
+      "page": "/article-gmp-standards.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-article-gmp-standards.html-3",
+      "page": "/article-gmp-standards.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-article-turnkey-projects.html-1",
+      "page": "/article-turnkey-projects.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-article-turnkey-projects.html-2",
+      "page": "/article-turnkey-projects.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-article-turnkey-projects.html-3",
+      "page": "/article-turnkey-projects.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-articles.html-1",
+      "page": "/articles.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-articles.html-2",
+      "page": "/articles.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-articles.html-3",
+      "page": "/articles.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-capabilities.html-1",
+      "page": "/capabilities.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-capabilities.html-2",
+      "page": "/capabilities.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-capabilities.html-3",
+      "page": "/capabilities.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-contact.html-1",
+      "page": "/contact.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-contact.html-2",
+      "page": "/contact.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-contact.html-3",
+      "page": "/contact.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-index.html-1",
+      "page": "/index.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-index.html-2",
+      "page": "/index.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-index.html-3",
+      "page": "/index.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-industries.html-1",
+      "page": "/industries.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-industries.html-2",
+      "page": "/industries.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-industries.html-3",
+      "page": "/industries.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-pharmaceutical-manufacturing.html-1",
+      "page": "/pharmaceutical-manufacturing.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-pharmaceutical-manufacturing.html-2",
+      "page": "/pharmaceutical-manufacturing.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-pharmaceutical-manufacturing.html-3",
+      "page": "/pharmaceutical-manufacturing.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-privacy-policy.html-1",
+      "page": "/privacy-policy.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-privacy-policy.html-2",
+      "page": "/privacy-policy.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-privacy-policy.html-3",
+      "page": "/privacy-policy.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-projects.html-1",
+      "page": "/projects.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-projects.html-2",
+      "page": "/projects.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-projects.html-3",
+      "page": "/projects.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-service-consulting.html-1",
+      "page": "/service-consulting.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-service-consulting.html-2",
+      "page": "/service-consulting.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-service-consulting.html-3",
+      "page": "/service-consulting.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-service-engineering-design.html-1",
+      "page": "/service-engineering-design.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-service-engineering-design.html-2",
+      "page": "/service-engineering-design.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-service-engineering-design.html-3",
+      "page": "/service-engineering-design.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-service-maintenance.html-1",
+      "page": "/service-maintenance.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-service-maintenance.html-2",
+      "page": "/service-maintenance.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-service-maintenance.html-3",
+      "page": "/service-maintenance.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-service-pharma-setup.html-1",
+      "page": "/service-pharma-setup.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-service-pharma-setup.html-2",
+      "page": "/service-pharma-setup.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-service-pharma-setup.html-3",
+      "page": "/service-pharma-setup.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-service-safety-systems.html-1",
+      "page": "/service-safety-systems.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-service-safety-systems.html-2",
+      "page": "/service-safety-systems.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-service-safety-systems.html-3",
+      "page": "/service-safety-systems.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-service-training.html-1",
+      "page": "/service-training.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-service-training.html-2",
+      "page": "/service-training.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-service-training.html-3",
+      "page": "/service-training.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-services.html-1",
+      "page": "/services.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-services.html-2",
+      "page": "/services.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-services.html-3",
+      "page": "/services.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-solution-cleanrooms.html-1",
+      "page": "/solution-cleanrooms.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-solution-cleanrooms.html-2",
+      "page": "/solution-cleanrooms.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-solution-cleanrooms.html-3",
+      "page": "/solution-cleanrooms.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-solution-electrical-engineering.html-1",
+      "page": "/solution-electrical-engineering.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-solution-electrical-engineering.html-2",
+      "page": "/solution-electrical-engineering.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-solution-electrical-engineering.html-3",
+      "page": "/solution-electrical-engineering.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-solution-engineering-consultancy.html-1",
+      "page": "/solution-engineering-consultancy.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-solution-engineering-consultancy.html-2",
+      "page": "/solution-engineering-consultancy.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-solution-engineering-consultancy.html-3",
+      "page": "/solution-engineering-consultancy.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-solution-hvac-systems.html-1",
+      "page": "/solution-hvac-systems.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-solution-hvac-systems.html-2",
+      "page": "/solution-hvac-systems.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-solution-hvac-systems.html-3",
+      "page": "/solution-hvac-systems.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-solution-industrial-automation.html-1",
+      "page": "/solution-industrial-automation.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-solution-industrial-automation.html-2",
+      "page": "/solution-industrial-automation.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-solution-industrial-automation.html-3",
+      "page": "/solution-industrial-automation.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-solution-industrial-equipment.html-1",
+      "page": "/solution-industrial-equipment.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-solution-industrial-equipment.html-2",
+      "page": "/solution-industrial-equipment.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-solution-industrial-equipment.html-3",
+      "page": "/solution-industrial-equipment.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-solution-pharmaceutical-facilities.html-1",
+      "page": "/solution-pharmaceutical-facilities.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-solution-pharmaceutical-facilities.html-2",
+      "page": "/solution-pharmaceutical-facilities.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-solution-pharmaceutical-facilities.html-3",
+      "page": "/solution-pharmaceutical-facilities.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-solution-turnkey-industrial-projects.html-1",
+      "page": "/solution-turnkey-industrial-projects.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-solution-turnkey-industrial-projects.html-2",
+      "page": "/solution-turnkey-industrial-projects.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-solution-turnkey-industrial-projects.html-3",
+      "page": "/solution-turnkey-industrial-projects.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-solutions.html-1",
+      "page": "/solutions.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-solutions.html-2",
+      "page": "/solutions.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-solutions.html-3",
+      "page": "/solutions.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-about.html-1",
+      "page": "/en/about.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-about.html-2",
+      "page": "/en/about.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-about.html-3",
+      "page": "/en/about.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-article-fire-safety.html-1",
+      "page": "/en/article-fire-safety.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-article-fire-safety.html-2",
+      "page": "/en/article-fire-safety.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-article-fire-safety.html-3",
+      "page": "/en/article-fire-safety.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-article-gmp-standards.html-1",
+      "page": "/en/article-gmp-standards.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-article-gmp-standards.html-2",
+      "page": "/en/article-gmp-standards.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-article-gmp-standards.html-3",
+      "page": "/en/article-gmp-standards.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-article-turnkey-projects.html-1",
+      "page": "/en/article-turnkey-projects.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-article-turnkey-projects.html-2",
+      "page": "/en/article-turnkey-projects.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-article-turnkey-projects.html-3",
+      "page": "/en/article-turnkey-projects.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-articles.html-1",
+      "page": "/en/articles.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-articles.html-2",
+      "page": "/en/articles.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-articles.html-3",
+      "page": "/en/articles.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-capabilities.html-1",
+      "page": "/en/capabilities.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-capabilities.html-2",
+      "page": "/en/capabilities.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-capabilities.html-3",
+      "page": "/en/capabilities.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-contact.html-1",
+      "page": "/en/contact.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-contact.html-2",
+      "page": "/en/contact.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-contact.html-3",
+      "page": "/en/contact.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-index.html-1",
+      "page": "/en/index.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-index.html-2",
+      "page": "/en/index.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-index.html-3",
+      "page": "/en/index.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-industries.html-1",
+      "page": "/en/industries.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-industries.html-2",
+      "page": "/en/industries.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-industries.html-3",
+      "page": "/en/industries.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-pharmaceutical-manufacturing.html-1",
+      "page": "/en/pharmaceutical-manufacturing.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-pharmaceutical-manufacturing.html-2",
+      "page": "/en/pharmaceutical-manufacturing.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-pharmaceutical-manufacturing.html-3",
+      "page": "/en/pharmaceutical-manufacturing.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-privacy-policy.html-1",
+      "page": "/en/privacy-policy.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-privacy-policy.html-2",
+      "page": "/en/privacy-policy.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-privacy-policy.html-3",
+      "page": "/en/privacy-policy.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-projects.html-1",
+      "page": "/en/projects.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-projects.html-2",
+      "page": "/en/projects.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-projects.html-3",
+      "page": "/en/projects.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-service-consulting.html-1",
+      "page": "/en/service-consulting.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-service-consulting.html-2",
+      "page": "/en/service-consulting.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-service-consulting.html-3",
+      "page": "/en/service-consulting.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-service-engineering-design.html-1",
+      "page": "/en/service-engineering-design.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-service-engineering-design.html-2",
+      "page": "/en/service-engineering-design.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-service-engineering-design.html-3",
+      "page": "/en/service-engineering-design.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-service-maintenance.html-1",
+      "page": "/en/service-maintenance.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-service-maintenance.html-2",
+      "page": "/en/service-maintenance.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-service-maintenance.html-3",
+      "page": "/en/service-maintenance.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-service-pharma-setup.html-1",
+      "page": "/en/service-pharma-setup.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-service-pharma-setup.html-2",
+      "page": "/en/service-pharma-setup.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-service-pharma-setup.html-3",
+      "page": "/en/service-pharma-setup.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-service-safety-systems.html-1",
+      "page": "/en/service-safety-systems.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-service-safety-systems.html-2",
+      "page": "/en/service-safety-systems.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-service-safety-systems.html-3",
+      "page": "/en/service-safety-systems.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-service-training.html-1",
+      "page": "/en/service-training.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-service-training.html-2",
+      "page": "/en/service-training.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-service-training.html-3",
+      "page": "/en/service-training.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-services.html-1",
+      "page": "/en/services.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-services.html-2",
+      "page": "/en/services.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-services.html-3",
+      "page": "/en/services.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-solution-cleanrooms.html-1",
+      "page": "/en/solution-cleanrooms.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-solution-cleanrooms.html-2",
+      "page": "/en/solution-cleanrooms.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-solution-cleanrooms.html-3",
+      "page": "/en/solution-cleanrooms.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-solution-electrical-engineering.html-1",
+      "page": "/en/solution-electrical-engineering.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-solution-electrical-engineering.html-2",
+      "page": "/en/solution-electrical-engineering.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-solution-electrical-engineering.html-3",
+      "page": "/en/solution-electrical-engineering.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-solution-engineering-consultancy.html-1",
+      "page": "/en/solution-engineering-consultancy.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-solution-engineering-consultancy.html-2",
+      "page": "/en/solution-engineering-consultancy.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-solution-engineering-consultancy.html-3",
+      "page": "/en/solution-engineering-consultancy.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-solution-hvac-systems.html-1",
+      "page": "/en/solution-hvac-systems.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-solution-hvac-systems.html-2",
+      "page": "/en/solution-hvac-systems.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-solution-hvac-systems.html-3",
+      "page": "/en/solution-hvac-systems.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-solution-industrial-automation.html-1",
+      "page": "/en/solution-industrial-automation.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-solution-industrial-automation.html-2",
+      "page": "/en/solution-industrial-automation.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-solution-industrial-automation.html-3",
+      "page": "/en/solution-industrial-automation.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-solution-industrial-equipment.html-1",
+      "page": "/en/solution-industrial-equipment.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-solution-industrial-equipment.html-2",
+      "page": "/en/solution-industrial-equipment.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-solution-industrial-equipment.html-3",
+      "page": "/en/solution-industrial-equipment.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-solution-pharmaceutical-facilities.html-1",
+      "page": "/en/solution-pharmaceutical-facilities.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-solution-pharmaceutical-facilities.html-2",
+      "page": "/en/solution-pharmaceutical-facilities.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-solution-pharmaceutical-facilities.html-3",
+      "page": "/en/solution-pharmaceutical-facilities.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-solution-turnkey-industrial-projects.html-1",
+      "page": "/en/solution-turnkey-industrial-projects.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-solution-turnkey-industrial-projects.html-2",
+      "page": "/en/solution-turnkey-industrial-projects.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-solution-turnkey-industrial-projects.html-3",
+      "page": "/en/solution-turnkey-industrial-projects.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-solutions.html-1",
+      "page": "/en/solutions.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-solutions.html-2",
+      "page": "/en/solutions.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    },
+    {
+      "placeholder_id": "PH-TXT-en-solutions.html-3",
+      "page": "/en/solutions.html",
+      "section": "development population section/card",
+      "current_placeholder": "DEMO_PLACEHOLDER",
+      "replacement_required": "APPROVED_CONTENT_OR_VISUAL_REQUIRED",
+      "asset_type": "TEXT_CARD",
+      "status": "PENDING"
+    }
+  ]
+}

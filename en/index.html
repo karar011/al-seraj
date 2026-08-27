@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" dir="ltr">
+<html data-development-mode="true" lang="en" dir="ltr">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -26,6 +26,8 @@
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Al-Seraj | Integrated Industrial Engineering Solutions","description":"Integrated engineering solutions for pharmaceutical and industrial facilities according to project requirements and applicable standards.","url":"https://sci5a.github.io/al-seraj/en/index.html"}</script>
   <script src="../theme-language.js"></script>
   <script src="../homepage-menu.js"></script>
+  <link rel="stylesheet" href="../development-content.css">
+  <meta name="development-content-mode" content="DEMO_PLACEHOLDER">
 </head>
 <body class="homepage">
   <a class="home-skip" href="#main-content">Skip to main content</a>
@@ -48,7 +50,7 @@
     <section class="home-hero" aria-labelledby="hero-title">
       <div class="container home-hero-grid">
         <div class="home-hero-copy"><span class="home-eyebrow">AL-SERAJ / INDUSTRIAL SOLUTIONS</span><h1 id="hero-title">Integrated Industrial Engineering Solutions</h1><p class="home-hero-lead">From engineering design and procurement to installation and commissioning, we provide integrated solutions for pharmaceutical and industrial facilities based on project requirements and applicable standards.</p><div class="home-hero-actions"><a class="home-button home-button-primary" href="../contact.html">Request an Engineering Consultation</a><a class="home-button home-button-secondary" href="#services">Explore Our Services</a><a class="home-button home-button-whatsapp btn-whatsapp whatsapp-link" href="https://wa.me/967777603050?text=Hello%20Al-Seraj%20Industrial%20Solutions%2C%20I%20would%20like%20to%20learn%20more%20about%20your%20industrial%20and%20pharmaceutical%20solutions.%20Please%20assist%20me." target="_blank" rel="noopener noreferrer">Contact us on WhatsApp</a></div><div class="home-hero-note" aria-label="Areas of work"><span>Pharmaceutical facilities</span><span>Industrial facilities</span><span>Engineering &amp; execution</span></div></div>
-        <div class="home-hero-visual" role="img" aria-label="Engineering pathway visual for industrial and pharmaceutical solutions"><div class="home-visual-window"><div class="home-visual-topbar"><span>ENGINEERING SYSTEM</span><span class="home-visual-status">PROJECT READY</span></div><div class="home-visual-body"><div class="home-visual-grid" aria-hidden="true"></div><div class="home-visual-schematic"><div class="home-visual-brand"><img src="../images/logo.jpg" alt="" width="48" height="48"><span><strong>AL-SERAJ</strong><small>Industrial Solutions</small></span></div><div class="home-visual-line"><span class="home-visual-chip">Engineering &amp; Design</span></div><div class="home-visual-line"><span class="home-visual-chip">HVAC / Cleanrooms</span></div><div class="home-visual-line"><span class="home-visual-chip">Supply &amp; Execution</span></div><div class="home-visual-panels"><div class="home-visual-panel"><strong>01</strong><span>Design</span></div><div class="home-visual-panel"><strong>02</strong><span>Supply</span></div><div class="home-visual-panel"><strong>03</strong><span>Commissioning</span></div></div></div></div></div></div>
+        <div class="home-hero-visual" role="img" aria-label="Engineering pathway visual for industrial and pharmaceutical solutions"><div class="home-visual-window"><div class="home-visual-topbar"><span>ENGINEERING SYSTEM</span><span class="home-visual-status">PROJECT READY</span></div><div class="home-visual-body"><div class="home-visual-grid" aria-hidden="true"></div><div class="home-visual-schematic"><div class="home-visual-brand"><img src="../images/logo.jpg" alt="Al-Seraj logo in engineering schematic" width="48" height="48"><span><strong>AL-SERAJ</strong><small>Industrial Solutions</small></span></div><div class="home-visual-line"><span class="home-visual-chip">Engineering &amp; Design</span></div><div class="home-visual-line"><span class="home-visual-chip">HVAC / Cleanrooms</span></div><div class="home-visual-line"><span class="home-visual-chip">Supply &amp; Execution</span></div><div class="home-visual-panels"><div class="home-visual-panel"><strong>01</strong><span>Design</span></div><div class="home-visual-panel"><strong>02</strong><span>Supply</span></div><div class="home-visual-panel"><strong>03</strong><span>Commissioning</span></div></div></div></div></div></div>
       </div>
     </section>
 
@@ -71,12 +73,31 @@
     <section class="home-section home-contact" id="contact" aria-labelledby="contact-title"><div class="container home-contact-grid"><div class="home-contact-info"><span class="home-kicker">CONTACT</span><h2 id="contact-title">Request an Engineering Consultation</h2><p>Share your project idea or facility requirements. The current form reviews fields locally only.</p><div class="home-contact-points"><div class="home-contact-point"><span aria-hidden="true">01</span><div><strong>Clear engineering scope</strong>From design to commissioning according to the project.</div></div><div class="home-contact-point"><span aria-hidden="true">02</span><div><strong>Direct WhatsApp channel</strong><a class="whatsapp-link" href="https://wa.me/967777603050?text=Hello%20Al-Seraj%20Industrial%20Solutions%2C%20I%20would%20like%20to%20learn%20more%20about%20your%20industrial%20and%20pharmaceutical%20solutions.%20Please%20assist%20me." target="_blank" rel="noopener noreferrer">Contact us on WhatsApp</a></div></div></div></div><form class="home-contact-form" onsubmit="handleHomeSubmit(event)"><div class="home-form-grid"><div class="home-form-group"><label for="home-name">Full name</label><input id="home-name" name="name" type="text" required></div><div class="home-form-group"><label for="home-email">Email address</label><input id="home-email" name="email" type="email" required></div><div class="home-form-group"><label for="home-phone">Phone number</label><input id="home-phone" name="phone" type="tel" required></div><div class="home-form-group full"><label for="home-message">Project requirements</label><textarea id="home-message" name="message" required></textarea></div></div><button class="home-button home-button-primary" type="submit" style="width:100%;margin-top:1rem">Review Fields Locally</button><p class="home-form-status" id="homepage-form-status" role="status" aria-live="polite"></p></form></div></section>
 
     <section class="home-section home-final-cta" aria-labelledby="final-cta-title"><div class="container home-final-cta-inner"><div><h2 id="final-cta-title">Have an Industrial or Pharmaceutical Project?</h2><p>Let's discuss your project requirements and identify the right engineering solution.</p></div><div class="home-final-cta-actions"><a class="home-button home-button-primary" href="../contact.html">Request an Engineering Consultation</a><a class="home-button home-button-whatsapp btn-whatsapp whatsapp-link" href="https://wa.me/967777603050?text=Hello%20Al-Seraj%20Industrial%20Solutions%2C%20I%20would%20like%20to%20learn%20more%20about%20your%20industrial%20and%20pharmaceutical%20solutions.%20Please%20assist%20me." target="_blank" rel="noopener noreferrer">Contact us on WhatsApp</a></div></div></section>
-  </main>
+
+<section class="development-population" data-development-section="true" data-placeholder-id="PH-SEC-en-index.html" aria-labelledby="dev-heading-index">
+  <div class="development-population__head"><div><span class="development-badge">DEVELOPMENT CONTENT MODE · DEMO_PLACEHOLDER</span><h2 id="dev-heading-index">DEMO CONTENT MODULE · Integrated industrial engineering</h2><p>A visual testing layer for a complete engineering workflow.</p></div><a class="development-population__cta" href="contact.html">Open service map</a></div>
+  <figure class="development-population__visual"><img src="../images/development/demo-cleanroom-hero.png" width="1600" height="900" loading="lazy" decoding="async" alt="DEVELOPMENT ASSET: Generic cleanroom corridor development asset"><figcaption>DEVELOPMENT ASSET · REPLACE WITH APPROVED VISUAL</figcaption></figure>
+  <div class="development-population__grid"><article class="development-card" id="demo-content-1" data-placeholder-id="PH-TXT-en-index.html-1">
+  <img src="../images/development/demo-facility-schematic.png" width="1600" height="900" loading="lazy" decoding="async" alt="Development placeholder: Illustrative structure">
+  <div class="development-card__body"><span class="development-kicker">DEMO_PLACEHOLDER</span><h3>Illustrative structure</h3><p>[APPROVED DESCRIPTION REQUIRED]</p></div>
+</article>
+<article class="development-card" id="demo-content-2" data-placeholder-id="PH-TXT-en-index.html-2">
+  <img src="../images/development/demo-hvac-ahu.png" width="1600" height="900" loading="lazy" decoding="async" alt="Development placeholder: Technical pathway">
+  <div class="development-card__body"><span class="development-kicker">DEMO_PLACEHOLDER</span><h3>Technical pathway</h3><p>[REAL CONTENT / EVIDENCE REQUIRED]</p></div>
+</article>
+<article class="development-card" id="demo-content-3" data-placeholder-id="PH-TXT-en-index.html-3">
+  <img src="../images/development/demo-controls.png" width="1600" height="900" loading="lazy" decoding="async" alt="Development placeholder: Replacement-ready slot">
+  <div class="development-card__body"><span class="development-kicker">DEMO_PLACEHOLDER</span><h3>Replacement-ready slot</h3><p>[HUMAN INPUT REQUIRED]</p></div>
+</article></div>
+</section>
+
+</main>
 
   <footer class="home-footer"><div class="container home-footer-grid"><div><h3>Al-Seraj</h3><p>Integrated industrial engineering solutions for pharmaceutical and industrial facilities according to project requirements and applicable standards.</p></div><div><h3>Quick Links</h3><ul><li><a href="../about.html">About</a></li><li><a href="../services.html">Services</a></li><li><a href="../solutions.html">Solutions</a></li><li><a href="../projects.html">Projects</a></li></ul></div><div><h3>Contact</h3><ul><li><a href="../contact.html">Contact page</a></li><li><a href="../privacy-policy.html">Privacy</a></li><li><a class="whatsapp-link" href="https://wa.me/967777603050?text=Hello%20Al-Seraj%20Industrial%20Solutions%2C%20I%20would%20like%20to%20learn%20more%20about%20your%20industrial%20and%20pharmaceutical%20solutions.%20Please%20assist%20me." target="_blank" rel="noopener noreferrer">Contact us on WhatsApp</a></li></ul></div></div><div class="home-footer-bottom"><div class="container">© 2026 Al-Seraj Industrial Solutions. All rights reserved.</div></div></footer>
   <script>
     function handleHomeSubmit(event) { event.preventDefault(); var form = event.target; var status = document.getElementById('homepage-form-status'); if (!form.checkValidity()) { form.reportValidity(); status.textContent = 'Please complete the required fields.'; return; } status.textContent = 'Fields reviewed locally only. No data was sent or stored.'; form.reset(); }
     document.querySelectorAll('a[href^="#"]').forEach(function (anchor) { anchor.addEventListener('click', function (event) { var target = document.querySelector(this.getAttribute('href')); if (target) { event.preventDefault(); if (this.classList.contains('home-skip')) target.focus({ preventScroll: true }); target.scrollIntoView({ behavior: 'smooth' }); } }); });
   </script>
+  <script defer src="../development-content.js"></script>
 </body>
 </html>

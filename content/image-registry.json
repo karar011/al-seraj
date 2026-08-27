@@ -1,0 +1,2245 @@
+{
+  "mode": "DEVELOPMENT ASSET",
+  "entries": [
+    {
+      "image_id": "IMG-DEMO-ABOUT-01",
+      "route": "/about.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-pharma-facility.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "أصل تطويري تجريبي: Generic pharmaceutical facility development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-ABOUT-02",
+      "route": "/about.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: هيكل توضيحي"
+    },
+    {
+      "image_id": "IMG-DEMO-ABOUT-03",
+      "route": "/about.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مسار تقني"
+    },
+    {
+      "image_id": "IMG-DEMO-ABOUT-04",
+      "route": "/about.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مساحة جاهزة للاستبدال"
+    },
+    {
+      "image_id": "IMG-DEMO-ARTICLE-FIRE-SAFETY-01",
+      "route": "/article-fire-safety.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-fire-alarm.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "أصل تطويري تجريبي: Generic engineering systems development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-ARTICLE-FIRE-SAFETY-02",
+      "route": "/article-fire-safety.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: هيكل توضيحي"
+    },
+    {
+      "image_id": "IMG-DEMO-ARTICLE-FIRE-SAFETY-03",
+      "route": "/article-fire-safety.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مسار تقني"
+    },
+    {
+      "image_id": "IMG-DEMO-ARTICLE-FIRE-SAFETY-04",
+      "route": "/article-fire-safety.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مساحة جاهزة للاستبدال"
+    },
+    {
+      "image_id": "IMG-DEMO-ARTICLE-GMP-STANDARDS-01",
+      "route": "/article-gmp-standards.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "أصل تطويري تجريبي: Generic facility schematic development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-ARTICLE-GMP-STANDARDS-02",
+      "route": "/article-gmp-standards.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: هيكل توضيحي"
+    },
+    {
+      "image_id": "IMG-DEMO-ARTICLE-GMP-STANDARDS-03",
+      "route": "/article-gmp-standards.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مسار تقني"
+    },
+    {
+      "image_id": "IMG-DEMO-ARTICLE-GMP-STANDARDS-04",
+      "route": "/article-gmp-standards.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مساحة جاهزة للاستبدال"
+    },
+    {
+      "image_id": "IMG-DEMO-ARTICLE-TURNKEY-PROJECTS-01",
+      "route": "/article-turnkey-projects.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "أصل تطويري تجريبي: Generic facility schematic development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-ARTICLE-TURNKEY-PROJECTS-02",
+      "route": "/article-turnkey-projects.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: هيكل توضيحي"
+    },
+    {
+      "image_id": "IMG-DEMO-ARTICLE-TURNKEY-PROJECTS-03",
+      "route": "/article-turnkey-projects.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مسار تقني"
+    },
+    {
+      "image_id": "IMG-DEMO-ARTICLE-TURNKEY-PROJECTS-04",
+      "route": "/article-turnkey-projects.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مساحة جاهزة للاستبدال"
+    },
+    {
+      "image_id": "IMG-DEMO-ARTICLES-01",
+      "route": "/articles.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "أصل تطويري تجريبي: Generic facility schematic development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-ARTICLES-02",
+      "route": "/articles.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: هيكل توضيحي"
+    },
+    {
+      "image_id": "IMG-DEMO-ARTICLES-03",
+      "route": "/articles.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مسار تقني"
+    },
+    {
+      "image_id": "IMG-DEMO-ARTICLES-04",
+      "route": "/articles.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مساحة جاهزة للاستبدال"
+    },
+    {
+      "image_id": "IMG-DEMO-CAPABILITIES-01",
+      "route": "/capabilities.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-engineering-workflow.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "أصل تطويري تجريبي: Generic engineering workflow development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-CAPABILITIES-02",
+      "route": "/capabilities.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: هيكل توضيحي"
+    },
+    {
+      "image_id": "IMG-DEMO-CAPABILITIES-03",
+      "route": "/capabilities.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مسار تقني"
+    },
+    {
+      "image_id": "IMG-DEMO-CAPABILITIES-04",
+      "route": "/capabilities.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مساحة جاهزة للاستبدال"
+    },
+    {
+      "image_id": "IMG-DEMO-CONTACT-01",
+      "route": "/contact.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-engineering-team.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "أصل تطويري تجريبي: Generic engineering team development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-CONTACT-02",
+      "route": "/contact.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: هيكل توضيحي"
+    },
+    {
+      "image_id": "IMG-DEMO-CONTACT-03",
+      "route": "/contact.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مسار تقني"
+    },
+    {
+      "image_id": "IMG-DEMO-CONTACT-04",
+      "route": "/contact.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مساحة جاهزة للاستبدال"
+    },
+    {
+      "image_id": "IMG-DEMO-INDEX-01",
+      "route": "/index.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-cleanroom-hero.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "أصل تطويري تجريبي: Generic cleanroom corridor development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-INDEX-02",
+      "route": "/index.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: هيكل توضيحي"
+    },
+    {
+      "image_id": "IMG-DEMO-INDEX-03",
+      "route": "/index.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مسار تقني"
+    },
+    {
+      "image_id": "IMG-DEMO-INDEX-04",
+      "route": "/index.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مساحة جاهزة للاستبدال"
+    },
+    {
+      "image_id": "IMG-DEMO-INDUSTRIES-01",
+      "route": "/industries.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-engineering-workflow.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "أصل تطويري تجريبي: Generic engineering workflow development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-INDUSTRIES-02",
+      "route": "/industries.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: هيكل توضيحي"
+    },
+    {
+      "image_id": "IMG-DEMO-INDUSTRIES-03",
+      "route": "/industries.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مسار تقني"
+    },
+    {
+      "image_id": "IMG-DEMO-INDUSTRIES-04",
+      "route": "/industries.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مساحة جاهزة للاستبدال"
+    },
+    {
+      "image_id": "IMG-DEMO-PHARMACEUTICAL-MANUFACTURING-01",
+      "route": "/pharmaceutical-manufacturing.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-cleanroom-flow.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "أصل تطويري تجريبي: Generic cleanroom zoning development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-PHARMACEUTICAL-MANUFACTURING-02",
+      "route": "/pharmaceutical-manufacturing.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: هيكل توضيحي"
+    },
+    {
+      "image_id": "IMG-DEMO-PHARMACEUTICAL-MANUFACTURING-03",
+      "route": "/pharmaceutical-manufacturing.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مسار تقني"
+    },
+    {
+      "image_id": "IMG-DEMO-PHARMACEUTICAL-MANUFACTURING-04",
+      "route": "/pharmaceutical-manufacturing.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مساحة جاهزة للاستبدال"
+    },
+    {
+      "image_id": "IMG-DEMO-PRIVACY-POLICY-01",
+      "route": "/privacy-policy.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-pharma-facility.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "أصل تطويري تجريبي: Generic pharmaceutical facility development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-PRIVACY-POLICY-02",
+      "route": "/privacy-policy.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: هيكل توضيحي"
+    },
+    {
+      "image_id": "IMG-DEMO-PRIVACY-POLICY-03",
+      "route": "/privacy-policy.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مسار تقني"
+    },
+    {
+      "image_id": "IMG-DEMO-PRIVACY-POLICY-04",
+      "route": "/privacy-policy.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مساحة جاهزة للاستبدال"
+    },
+    {
+      "image_id": "IMG-DEMO-PROJECTS-01",
+      "route": "/projects.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-engineering-workflow.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "أصل تطويري تجريبي: Generic engineering workflow development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-PROJECTS-02",
+      "route": "/projects.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: إطار تخطيط منشأة"
+    },
+    {
+      "image_id": "IMG-DEMO-PROJECTS-03",
+      "route": "/projects.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-cleanroom-flow.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: إطار أنظمة غرف نظيفة"
+    },
+    {
+      "image_id": "IMG-DEMO-PROJECTS-04",
+      "route": "/projects.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-equipment.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: إطار التشغيل والاختبار"
+    },
+    {
+      "image_id": "IMG-DEMO-SERVICE-CONSULTING-01",
+      "route": "/service-consulting.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-engineering-workflow.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "أصل تطويري تجريبي: Generic engineering workflow development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-SERVICE-CONSULTING-02",
+      "route": "/service-consulting.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: هيكل توضيحي"
+    },
+    {
+      "image_id": "IMG-DEMO-SERVICE-CONSULTING-03",
+      "route": "/service-consulting.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مسار تقني"
+    },
+    {
+      "image_id": "IMG-DEMO-SERVICE-CONSULTING-04",
+      "route": "/service-consulting.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مساحة جاهزة للاستبدال"
+    },
+    {
+      "image_id": "IMG-DEMO-SERVICE-ENGINEERING-DESIGN-01",
+      "route": "/service-engineering-design.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-engineering-workflow.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "أصل تطويري تجريبي: Generic engineering workflow development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-SERVICE-ENGINEERING-DESIGN-02",
+      "route": "/service-engineering-design.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: هيكل توضيحي"
+    },
+    {
+      "image_id": "IMG-DEMO-SERVICE-ENGINEERING-DESIGN-03",
+      "route": "/service-engineering-design.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مسار تقني"
+    },
+    {
+      "image_id": "IMG-DEMO-SERVICE-ENGINEERING-DESIGN-04",
+      "route": "/service-engineering-design.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مساحة جاهزة للاستبدال"
+    },
+    {
+      "image_id": "IMG-DEMO-SERVICE-MAINTENANCE-01",
+      "route": "/service-maintenance.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-engineering-workflow.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "أصل تطويري تجريبي: Generic engineering workflow development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-SERVICE-MAINTENANCE-02",
+      "route": "/service-maintenance.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: هيكل توضيحي"
+    },
+    {
+      "image_id": "IMG-DEMO-SERVICE-MAINTENANCE-03",
+      "route": "/service-maintenance.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مسار تقني"
+    },
+    {
+      "image_id": "IMG-DEMO-SERVICE-MAINTENANCE-04",
+      "route": "/service-maintenance.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مساحة جاهزة للاستبدال"
+    },
+    {
+      "image_id": "IMG-DEMO-SERVICE-PHARMA-SETUP-01",
+      "route": "/service-pharma-setup.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-engineering-workflow.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "أصل تطويري تجريبي: Generic engineering workflow development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-SERVICE-PHARMA-SETUP-02",
+      "route": "/service-pharma-setup.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: هيكل توضيحي"
+    },
+    {
+      "image_id": "IMG-DEMO-SERVICE-PHARMA-SETUP-03",
+      "route": "/service-pharma-setup.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مسار تقني"
+    },
+    {
+      "image_id": "IMG-DEMO-SERVICE-PHARMA-SETUP-04",
+      "route": "/service-pharma-setup.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مساحة جاهزة للاستبدال"
+    },
+    {
+      "image_id": "IMG-DEMO-SERVICE-SAFETY-SYSTEMS-01",
+      "route": "/service-safety-systems.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-fire-alarm.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "أصل تطويري تجريبي: Generic engineering systems development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-SERVICE-SAFETY-SYSTEMS-02",
+      "route": "/service-safety-systems.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: هيكل توضيحي"
+    },
+    {
+      "image_id": "IMG-DEMO-SERVICE-SAFETY-SYSTEMS-03",
+      "route": "/service-safety-systems.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مسار تقني"
+    },
+    {
+      "image_id": "IMG-DEMO-SERVICE-SAFETY-SYSTEMS-04",
+      "route": "/service-safety-systems.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مساحة جاهزة للاستبدال"
+    },
+    {
+      "image_id": "IMG-DEMO-SERVICE-TRAINING-01",
+      "route": "/service-training.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-engineering-workflow.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "أصل تطويري تجريبي: Generic engineering workflow development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-SERVICE-TRAINING-02",
+      "route": "/service-training.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: هيكل توضيحي"
+    },
+    {
+      "image_id": "IMG-DEMO-SERVICE-TRAINING-03",
+      "route": "/service-training.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مسار تقني"
+    },
+    {
+      "image_id": "IMG-DEMO-SERVICE-TRAINING-04",
+      "route": "/service-training.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مساحة جاهزة للاستبدال"
+    },
+    {
+      "image_id": "IMG-DEMO-SERVICES-01",
+      "route": "/services.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "أصل تطويري تجريبي: Generic facility schematic development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-SERVICES-02",
+      "route": "/services.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: هيكل توضيحي"
+    },
+    {
+      "image_id": "IMG-DEMO-SERVICES-03",
+      "route": "/services.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مسار تقني"
+    },
+    {
+      "image_id": "IMG-DEMO-SERVICES-04",
+      "route": "/services.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مساحة جاهزة للاستبدال"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-CLEANROOMS-01",
+      "route": "/solution-cleanrooms.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-cleanroom-flow.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "أصل تطويري تجريبي: Generic cleanroom zoning development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-CLEANROOMS-02",
+      "route": "/solution-cleanrooms.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: هيكل توضيحي"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-CLEANROOMS-03",
+      "route": "/solution-cleanrooms.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مسار تقني"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-CLEANROOMS-04",
+      "route": "/solution-cleanrooms.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مساحة جاهزة للاستبدال"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-ELECTRICAL-ENGINEERING-01",
+      "route": "/solution-electrical-engineering.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "أصل تطويري تجريبي: Generic engineering systems development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-ELECTRICAL-ENGINEERING-02",
+      "route": "/solution-electrical-engineering.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: هيكل توضيحي"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-ELECTRICAL-ENGINEERING-03",
+      "route": "/solution-electrical-engineering.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مسار تقني"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-ELECTRICAL-ENGINEERING-04",
+      "route": "/solution-electrical-engineering.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مساحة جاهزة للاستبدال"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-ENGINEERING-CONSULTANCY-01",
+      "route": "/solution-engineering-consultancy.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "أصل تطويري تجريبي: Generic facility schematic development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-ENGINEERING-CONSULTANCY-02",
+      "route": "/solution-engineering-consultancy.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: هيكل توضيحي"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-ENGINEERING-CONSULTANCY-03",
+      "route": "/solution-engineering-consultancy.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مسار تقني"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-ENGINEERING-CONSULTANCY-04",
+      "route": "/solution-engineering-consultancy.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مساحة جاهزة للاستبدال"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-HVAC-SYSTEMS-01",
+      "route": "/solution-hvac-systems.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "أصل تطويري تجريبي: Generic engineering systems development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-HVAC-SYSTEMS-02",
+      "route": "/solution-hvac-systems.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: هيكل توضيحي"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-HVAC-SYSTEMS-03",
+      "route": "/solution-hvac-systems.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مسار تقني"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-HVAC-SYSTEMS-04",
+      "route": "/solution-hvac-systems.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مساحة جاهزة للاستبدال"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-INDUSTRIAL-AUTOMATION-01",
+      "route": "/solution-industrial-automation.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "أصل تطويري تجريبي: Generic engineering systems development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-INDUSTRIAL-AUTOMATION-02",
+      "route": "/solution-industrial-automation.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: هيكل توضيحي"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-INDUSTRIAL-AUTOMATION-03",
+      "route": "/solution-industrial-automation.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مسار تقني"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-INDUSTRIAL-AUTOMATION-04",
+      "route": "/solution-industrial-automation.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مساحة جاهزة للاستبدال"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-INDUSTRIAL-EQUIPMENT-01",
+      "route": "/solution-industrial-equipment.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-equipment.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "أصل تطويري تجريبي: Generic equipment integration development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-INDUSTRIAL-EQUIPMENT-02",
+      "route": "/solution-industrial-equipment.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: وحدة معالجة هواء"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-INDUSTRIAL-EQUIPMENT-03",
+      "route": "/solution-industrial-equipment.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: وحدة تحكم"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-INDUSTRIAL-EQUIPMENT-04",
+      "route": "/solution-industrial-equipment.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-water-skid.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: وحدة خدمات"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-PHARMACEUTICAL-FACILITIES-01",
+      "route": "/solution-pharmaceutical-facilities.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-cleanroom-flow.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "أصل تطويري تجريبي: Generic cleanroom zoning development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-PHARMACEUTICAL-FACILITIES-02",
+      "route": "/solution-pharmaceutical-facilities.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: هيكل توضيحي"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-PHARMACEUTICAL-FACILITIES-03",
+      "route": "/solution-pharmaceutical-facilities.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مسار تقني"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-PHARMACEUTICAL-FACILITIES-04",
+      "route": "/solution-pharmaceutical-facilities.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مساحة جاهزة للاستبدال"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-TURNKEY-INDUSTRIAL-PROJECTS-01",
+      "route": "/solution-turnkey-industrial-projects.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "أصل تطويري تجريبي: Generic facility schematic development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-TURNKEY-INDUSTRIAL-PROJECTS-02",
+      "route": "/solution-turnkey-industrial-projects.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: هيكل توضيحي"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-TURNKEY-INDUSTRIAL-PROJECTS-03",
+      "route": "/solution-turnkey-industrial-projects.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مسار تقني"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTION-TURNKEY-INDUSTRIAL-PROJECTS-04",
+      "route": "/solution-turnkey-industrial-projects.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مساحة جاهزة للاستبدال"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTIONS-01",
+      "route": "/solutions.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "أصل تطويري تجريبي: Generic facility schematic development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTIONS-02",
+      "route": "/solutions.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: هيكل توضيحي"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTIONS-03",
+      "route": "/solutions.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مسار تقني"
+    },
+    {
+      "image_id": "IMG-DEMO-SOLUTIONS-04",
+      "route": "/solutions.html",
+      "section": "development population module",
+      "current_asset": "images/development/images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "صورة تجريبية تطويرية: مساحة جاهزة للاستبدال"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-ABOUT-01",
+      "route": "/en/about.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-pharma-facility.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "DEVELOPMENT ASSET: Generic pharmaceutical facility development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-ABOUT-02",
+      "route": "/en/about.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Illustrative structure"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-ABOUT-03",
+      "route": "/en/about.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Technical pathway"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-ABOUT-04",
+      "route": "/en/about.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Replacement-ready slot"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-ARTICLE-FIRE-SAFETY-01",
+      "route": "/en/article-fire-safety.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-fire-alarm.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "DEVELOPMENT ASSET: Generic engineering systems development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-ARTICLE-FIRE-SAFETY-02",
+      "route": "/en/article-fire-safety.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Illustrative structure"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-ARTICLE-FIRE-SAFETY-03",
+      "route": "/en/article-fire-safety.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Technical pathway"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-ARTICLE-FIRE-SAFETY-04",
+      "route": "/en/article-fire-safety.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Replacement-ready slot"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-ARTICLE-GMP-STANDARDS-01",
+      "route": "/en/article-gmp-standards.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "DEVELOPMENT ASSET: Generic facility schematic development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-ARTICLE-GMP-STANDARDS-02",
+      "route": "/en/article-gmp-standards.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Illustrative structure"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-ARTICLE-GMP-STANDARDS-03",
+      "route": "/en/article-gmp-standards.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Technical pathway"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-ARTICLE-GMP-STANDARDS-04",
+      "route": "/en/article-gmp-standards.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Replacement-ready slot"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-ARTICLE-TURNKEY-PROJECTS-01",
+      "route": "/en/article-turnkey-projects.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "DEVELOPMENT ASSET: Generic facility schematic development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-ARTICLE-TURNKEY-PROJECTS-02",
+      "route": "/en/article-turnkey-projects.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Illustrative structure"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-ARTICLE-TURNKEY-PROJECTS-03",
+      "route": "/en/article-turnkey-projects.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Technical pathway"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-ARTICLE-TURNKEY-PROJECTS-04",
+      "route": "/en/article-turnkey-projects.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Replacement-ready slot"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-ARTICLES-01",
+      "route": "/en/articles.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "DEVELOPMENT ASSET: Generic facility schematic development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-ARTICLES-02",
+      "route": "/en/articles.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Illustrative structure"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-ARTICLES-03",
+      "route": "/en/articles.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Technical pathway"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-ARTICLES-04",
+      "route": "/en/articles.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Replacement-ready slot"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-CAPABILITIES-01",
+      "route": "/en/capabilities.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-engineering-workflow.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "DEVELOPMENT ASSET: Generic engineering workflow development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-CAPABILITIES-02",
+      "route": "/en/capabilities.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Illustrative structure"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-CAPABILITIES-03",
+      "route": "/en/capabilities.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Technical pathway"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-CAPABILITIES-04",
+      "route": "/en/capabilities.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Replacement-ready slot"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-CONTACT-01",
+      "route": "/en/contact.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-engineering-team.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "DEVELOPMENT ASSET: Generic engineering team development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-CONTACT-02",
+      "route": "/en/contact.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Illustrative structure"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-CONTACT-03",
+      "route": "/en/contact.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Technical pathway"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-CONTACT-04",
+      "route": "/en/contact.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Replacement-ready slot"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-INDEX-01",
+      "route": "/en/index.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-cleanroom-hero.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "DEVELOPMENT ASSET: Generic cleanroom corridor development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-INDEX-02",
+      "route": "/en/index.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Illustrative structure"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-INDEX-03",
+      "route": "/en/index.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Technical pathway"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-INDEX-04",
+      "route": "/en/index.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Replacement-ready slot"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-INDUSTRIES-01",
+      "route": "/en/industries.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-engineering-workflow.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "DEVELOPMENT ASSET: Generic engineering workflow development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-INDUSTRIES-02",
+      "route": "/en/industries.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Illustrative structure"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-INDUSTRIES-03",
+      "route": "/en/industries.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Technical pathway"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-INDUSTRIES-04",
+      "route": "/en/industries.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Replacement-ready slot"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-PHARMACEUTICAL-MANUFACTURING-01",
+      "route": "/en/pharmaceutical-manufacturing.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-cleanroom-flow.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "DEVELOPMENT ASSET: Generic cleanroom zoning development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-PHARMACEUTICAL-MANUFACTURING-02",
+      "route": "/en/pharmaceutical-manufacturing.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Illustrative structure"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-PHARMACEUTICAL-MANUFACTURING-03",
+      "route": "/en/pharmaceutical-manufacturing.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Technical pathway"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-PHARMACEUTICAL-MANUFACTURING-04",
+      "route": "/en/pharmaceutical-manufacturing.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Replacement-ready slot"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-PRIVACY-POLICY-01",
+      "route": "/en/privacy-policy.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-pharma-facility.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "DEVELOPMENT ASSET: Generic pharmaceutical facility development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-PRIVACY-POLICY-02",
+      "route": "/en/privacy-policy.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Illustrative structure"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-PRIVACY-POLICY-03",
+      "route": "/en/privacy-policy.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Technical pathway"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-PRIVACY-POLICY-04",
+      "route": "/en/privacy-policy.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Replacement-ready slot"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-PROJECTS-01",
+      "route": "/en/projects.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-engineering-workflow.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "DEVELOPMENT ASSET: Generic engineering workflow development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-PROJECTS-02",
+      "route": "/en/projects.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Facility planning frame"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-PROJECTS-03",
+      "route": "/en/projects.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-cleanroom-flow.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Cleanroom systems frame"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-PROJECTS-04",
+      "route": "/en/projects.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-equipment.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Commissioning frame"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SERVICE-CONSULTING-01",
+      "route": "/en/service-consulting.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-engineering-workflow.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "DEVELOPMENT ASSET: Generic engineering workflow development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SERVICE-CONSULTING-02",
+      "route": "/en/service-consulting.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Illustrative structure"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SERVICE-CONSULTING-03",
+      "route": "/en/service-consulting.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Technical pathway"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SERVICE-CONSULTING-04",
+      "route": "/en/service-consulting.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Replacement-ready slot"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SERVICE-ENGINEERING-DESIGN-01",
+      "route": "/en/service-engineering-design.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-engineering-workflow.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "DEVELOPMENT ASSET: Generic engineering workflow development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SERVICE-ENGINEERING-DESIGN-02",
+      "route": "/en/service-engineering-design.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Illustrative structure"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SERVICE-ENGINEERING-DESIGN-03",
+      "route": "/en/service-engineering-design.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Technical pathway"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SERVICE-ENGINEERING-DESIGN-04",
+      "route": "/en/service-engineering-design.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Replacement-ready slot"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SERVICE-MAINTENANCE-01",
+      "route": "/en/service-maintenance.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-engineering-workflow.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "DEVELOPMENT ASSET: Generic engineering workflow development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SERVICE-MAINTENANCE-02",
+      "route": "/en/service-maintenance.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Illustrative structure"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SERVICE-MAINTENANCE-03",
+      "route": "/en/service-maintenance.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Technical pathway"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SERVICE-MAINTENANCE-04",
+      "route": "/en/service-maintenance.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Replacement-ready slot"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SERVICE-PHARMA-SETUP-01",
+      "route": "/en/service-pharma-setup.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-engineering-workflow.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "DEVELOPMENT ASSET: Generic engineering workflow development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SERVICE-PHARMA-SETUP-02",
+      "route": "/en/service-pharma-setup.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Illustrative structure"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SERVICE-PHARMA-SETUP-03",
+      "route": "/en/service-pharma-setup.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Technical pathway"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SERVICE-PHARMA-SETUP-04",
+      "route": "/en/service-pharma-setup.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Replacement-ready slot"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SERVICE-SAFETY-SYSTEMS-01",
+      "route": "/en/service-safety-systems.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-fire-alarm.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "DEVELOPMENT ASSET: Generic engineering systems development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SERVICE-SAFETY-SYSTEMS-02",
+      "route": "/en/service-safety-systems.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Illustrative structure"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SERVICE-SAFETY-SYSTEMS-03",
+      "route": "/en/service-safety-systems.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Technical pathway"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SERVICE-SAFETY-SYSTEMS-04",
+      "route": "/en/service-safety-systems.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Replacement-ready slot"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SERVICE-TRAINING-01",
+      "route": "/en/service-training.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-engineering-workflow.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "DEVELOPMENT ASSET: Generic engineering workflow development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SERVICE-TRAINING-02",
+      "route": "/en/service-training.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Illustrative structure"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SERVICE-TRAINING-03",
+      "route": "/en/service-training.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Technical pathway"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SERVICE-TRAINING-04",
+      "route": "/en/service-training.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Replacement-ready slot"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SERVICES-01",
+      "route": "/en/services.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "DEVELOPMENT ASSET: Generic facility schematic development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SERVICES-02",
+      "route": "/en/services.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Illustrative structure"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SERVICES-03",
+      "route": "/en/services.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Technical pathway"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SERVICES-04",
+      "route": "/en/services.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Replacement-ready slot"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-CLEANROOMS-01",
+      "route": "/en/solution-cleanrooms.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-cleanroom-flow.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "DEVELOPMENT ASSET: Generic cleanroom zoning development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-CLEANROOMS-02",
+      "route": "/en/solution-cleanrooms.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Illustrative structure"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-CLEANROOMS-03",
+      "route": "/en/solution-cleanrooms.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Technical pathway"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-CLEANROOMS-04",
+      "route": "/en/solution-cleanrooms.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Replacement-ready slot"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-ELECTRICAL-ENGINEERING-01",
+      "route": "/en/solution-electrical-engineering.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "DEVELOPMENT ASSET: Generic engineering systems development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-ELECTRICAL-ENGINEERING-02",
+      "route": "/en/solution-electrical-engineering.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Illustrative structure"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-ELECTRICAL-ENGINEERING-03",
+      "route": "/en/solution-electrical-engineering.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Technical pathway"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-ELECTRICAL-ENGINEERING-04",
+      "route": "/en/solution-electrical-engineering.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Replacement-ready slot"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-ENGINEERING-CONSULTANCY-01",
+      "route": "/en/solution-engineering-consultancy.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "DEVELOPMENT ASSET: Generic facility schematic development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-ENGINEERING-CONSULTANCY-02",
+      "route": "/en/solution-engineering-consultancy.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Illustrative structure"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-ENGINEERING-CONSULTANCY-03",
+      "route": "/en/solution-engineering-consultancy.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Technical pathway"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-ENGINEERING-CONSULTANCY-04",
+      "route": "/en/solution-engineering-consultancy.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Replacement-ready slot"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-HVAC-SYSTEMS-01",
+      "route": "/en/solution-hvac-systems.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "DEVELOPMENT ASSET: Generic engineering systems development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-HVAC-SYSTEMS-02",
+      "route": "/en/solution-hvac-systems.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Illustrative structure"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-HVAC-SYSTEMS-03",
+      "route": "/en/solution-hvac-systems.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Technical pathway"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-HVAC-SYSTEMS-04",
+      "route": "/en/solution-hvac-systems.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Replacement-ready slot"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-INDUSTRIAL-AUTOMATION-01",
+      "route": "/en/solution-industrial-automation.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "DEVELOPMENT ASSET: Generic engineering systems development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-INDUSTRIAL-AUTOMATION-02",
+      "route": "/en/solution-industrial-automation.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Illustrative structure"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-INDUSTRIAL-AUTOMATION-03",
+      "route": "/en/solution-industrial-automation.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Technical pathway"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-INDUSTRIAL-AUTOMATION-04",
+      "route": "/en/solution-industrial-automation.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Replacement-ready slot"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-INDUSTRIAL-EQUIPMENT-01",
+      "route": "/en/solution-industrial-equipment.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-equipment.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "DEVELOPMENT ASSET: Generic equipment integration development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-INDUSTRIAL-EQUIPMENT-02",
+      "route": "/en/solution-industrial-equipment.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Air handling module"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-INDUSTRIAL-EQUIPMENT-03",
+      "route": "/en/solution-industrial-equipment.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Controls module"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-INDUSTRIAL-EQUIPMENT-04",
+      "route": "/en/solution-industrial-equipment.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-water-skid.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Utilities module"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-PHARMACEUTICAL-FACILITIES-01",
+      "route": "/en/solution-pharmaceutical-facilities.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-cleanroom-flow.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "DEVELOPMENT ASSET: Generic cleanroom zoning development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-PHARMACEUTICAL-FACILITIES-02",
+      "route": "/en/solution-pharmaceutical-facilities.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Illustrative structure"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-PHARMACEUTICAL-FACILITIES-03",
+      "route": "/en/solution-pharmaceutical-facilities.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Technical pathway"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-PHARMACEUTICAL-FACILITIES-04",
+      "route": "/en/solution-pharmaceutical-facilities.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Replacement-ready slot"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-TURNKEY-INDUSTRIAL-PROJECTS-01",
+      "route": "/en/solution-turnkey-industrial-projects.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "DEVELOPMENT ASSET: Generic facility schematic development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-TURNKEY-INDUSTRIAL-PROJECTS-02",
+      "route": "/en/solution-turnkey-industrial-projects.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Illustrative structure"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-TURNKEY-INDUSTRIAL-PROJECTS-03",
+      "route": "/en/solution-turnkey-industrial-projects.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Technical pathway"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTION-TURNKEY-INDUSTRIAL-PROJECTS-04",
+      "route": "/en/solution-turnkey-industrial-projects.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Replacement-ready slot"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTIONS-01",
+      "route": "/en/solutions.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "DEVELOPMENT ASSET: Generic facility schematic development asset"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTIONS-02",
+      "route": "/en/solutions.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-facility-schematic.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Illustrative structure"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTIONS-03",
+      "route": "/en/solutions.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-hvac-ahu.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Technical pathway"
+    },
+    {
+      "image_id": "IMG-DEMO-EN-SOLUTIONS-04",
+      "route": "/en/solutions.html",
+      "section": "development population module",
+      "current_asset": "images/development/demo-controls.png",
+      "replacement_required": "APPROVED_REAL_VISUAL_REQUIRED",
+      "dimensions": "1600x900",
+      "status": "PENDING",
+      "alt": "Development placeholder: Replacement-ready slot"
+    }
+  ]
+}
